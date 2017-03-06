@@ -1,0 +1,1506 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+2131-101,A,B12,Fornebu/Aker brygge,,4,,FFFFFF,000000
+2131-201,A,B20,Slemmestad/Aker brygge,,4,,FFFFFF,000000
+2131-601,A,B10,Nesoddtangen/Aker brygge,,4,,FFFFFF,000000
+2131-603,A,B11,Nesoddtangen/Lysaker,,4,,FFFFFF,000000
+2260-331,A,331,Ask/Oslo Bussterminal,,3,,FFFFFF,000000
+2260-332,A,332,Ask/Oslo Bussterminal,,3,,FFFFFF,000000
+2260-811,A,811,Vilberg ESH/Oslo lufthavn,,3,,FFFFFF,000000
+2260-815,A,815,Erikstellet/Oslo Lufthavn,,3,,FFFFFF,000000
+2260-816,A,816,Finsbråten/Eidsvoll stasjon,,3,,FFFFFF,000000
+2260-818,A,818,Heimvard/Oslo Lufthavn via Sand,,3,,FFFFFF,000000
+2260-821,A,821,Frilset/Årnes stasjon,,3,,FFFFFF,000000
+2260-823,A,823,Eidsvoll stasjon/Eidsvoll stasjon,,3,,FFFFFF,000000
+2260-825,A,825,Bøn sykehjem/Sagasenteret,,3,,FFFFFF,000000
+2260-831,A,831,Dysterud/Kløfta stasjon,,3,,FFFFFF,000000
+2260-833,A,833,Dysterud/Årnes stasjon,,3,,FFFFFF,000000
+2260-834,A,834,Årnes stasjon/Årnes stasjon,,3,,FFFFFF,000000
+2260-835,A,835,Rånåsfoss/Runni us.,,3,,FFFFFF,000000
+2260-836,A,836,Årnes stasjon/Rånåsfoss stasjon,,3,,FFFFFF,000000
+2260-838,A,838,Årnes stasjon/Oslo Lufthavn,,3,,FFFFFF,000000
+2260-847,A,847,Nitteberg/Ask,,3,,FFFFFF,000000
+2260-848,A,848,Nannestad torg/Lillestrøm,,3,,FFFFFF,000000
+2260-851,A,851,Frogner stasjon/Oslo lufthavn,,3,,FFFFFF,000000
+2260-855,A,855,Kopperud/Oslo Lufthavn,,3,,FFFFFF,000000
+2260-2601,A,2871,Ask/Rælingen vgs.,,3,,FFFFFF,000000
+2260-2602,A,3431,Ask/Ask terminal,,3,,FFFFFF,000000
+2260-2603,A,3531,Brattfoss/Algarheim skole,,3,,FFFFFF,000000
+2260-2604,A,3532,Dagsjøveien/Nye Nordkisa skole,,3,,FFFFFF,000000
+2260-2605,A,3533,Lundsletta/Vesong us.,,3,,FFFFFF,000000
+2260-2606,A,3534,Stokker/Borgen skole,,3,,FFFFFF,000000
+2260-2607,A,3535,Sætreringen/Mogreina skole,,3,,FFFFFF,000000
+2260-2608,A,3537,Åreppen skole/Åreppen skole,,3,,FFFFFF,000000
+2260-2609,A,3538,Nybakk/Gystadmarka,,3,,FFFFFF,000000
+2260-2610,A,3541,Nordby u. skole/Hannestad,,3,,FFFFFF,000000
+2260-2611,A,3542,Algarheim skole/Gystadmarka skole,,3,,FFFFFF,000000
+2260-2612,A,3571,Furulundveien/Jessheim vgs.,,3,,FFFFFF,000000
+2260-2613,A,3573,Eidsvoll stasjon/Bekkebakken,,3,,FFFFFF,000000
+2260-2614,A,3574,Myrhus/Jessheim vgs.,,3,,FFFFFF,000000
+2260-2615,A,3575,Korslund/Jessheim stasjon,,3,,FFFFFF,000000
+2260-2616,A,3576,Nordkisa skole/Jessheim vgs.,,3,,FFFFFF,000000
+2260-2617,A,3631,Neskollen/Runni us.,,3,,FFFFFF,000000
+2260-2618,A,3632,Haga stasjon/Runni us.,,3,,FFFFFF,000000
+2260-2619,A,3633,Frilset/Neskollen,,3,,FFFFFF,000000
+2260-2620,A,3634,Neskollen/Vormsund b & us.,,3,,FFFFFF,000000
+2260-2621,A,3635,Vormsund u. skole/Rolstad-Holter,,3,,FFFFFF,000000
+2260-2622,A,3636,Neskollen/Arnestad-Lillerommen,,3,,FFFFFF,000000
+2260-2623,A,3637,Rød/Fenstad skole,,3,,FFFFFF,000000
+2260-2624,A,3638,Fallet/Neskollen,,3,,FFFFFF,000000
+2260-2625,A,3639,Herbergåsen/Vormsund b & us.,,3,,FFFFFF,000000
+2260-2626,A,3640,Sliperisvingen/Skogbygda skole,,3,,FFFFFF,000000
+2260-2627,A,3641,Vormsund/Skogbygda skole,,3,,FFFFFF,000000
+2260-2628,A,3643,Simarud/Neskollen,,3,,FFFFFF,000000
+2260-2629,A,3644,Fuglefjellet/Neskollen,,3,,FFFFFF,000000
+2260-2630,A,3650,Runni u. skole/Sandbergveien,,3,,FFFFFF,000000
+2260-2631,A,3651,Runni u. skole/Årnes Møbler,,3,,FFFFFF,000000
+2260-2632,A,3652,Opaker/Østgård skole,,3,,FFFFFF,000000
+2260-2633,A,3655,Runni u. skole/Bodung,,3,,FFFFFF,000000
+2260-2634,A,3657,Årnes stasjon/Framtun skole,,3,,FFFFFF,000000
+2260-2635,A,3658,Huserteiet/Framtun skole,,3,,FFFFFF,000000
+2260-2636,A,3659,Auli mølle/Runni us.,,3,,FFFFFF,000000
+2260-2637,A,3671,Aulifeltet/Runni us.,,3,,FFFFFF,000000
+2260-2638,A,3674,Fallet/Vormsund,,3,,FFFFFF,000000
+2260-2639,A,3681,Årnes stasjon/Hvam vgs.,,3,,FFFFFF,000000
+2260-2640,A,3683,Munkerudteiet/Hvam vgs.,,3,,FFFFFF,000000
+2260-2641,A,3686,Runni u. skole/Rånåsfoss,,3,,FFFFFF,000000
+2260-2642,A,3687,Årnes stasjon/Sørumsand stasjon,,3,,FFFFFF,000000
+2260-2643,A,3731,Knofsløkka/Vilberg skole,,3,,FFFFFF,000000
+2260-2644,A,3732,Furusetsenter/Vilberg skole,,3,,FFFFFF,000000
+2260-2645,A,3733,Smedstadgutua/Langset skole,,3,,FFFFFF,000000
+2260-2646,A,3734,Skovseth/Vilberg us.,,3,,FFFFFF,000000
+2260-2647,A,3735,Vilberg u. skole/Dal stasjon,,3,,FFFFFF,000000
+2260-2648,A,3736,Langset skole/Skovseth,,3,,FFFFFF,000000
+2260-2649,A,3737,Stensby sykehus/Langset skole,,3,,FFFFFF,000000
+2260-2650,A,3739,Løkenvangen/Dal skole,,3,,FFFFFF,000000
+2260-2651,A,3740,Venger/Råholthallen,,3,,FFFFFF,000000
+2260-2652,A,3742,Linderud/Ås skole,,3,,FFFFFF,000000
+2260-2653,A,3743,Finstad/Råholthallen,,3,,FFFFFF,000000
+2260-2654,A,3744,Feiring skole/Tansem,,3,,FFFFFF,000000
+2260-2655,A,3771,Olavsgaard/Vilberg skole,,3,,FFFFFF,000000
+2260-2656,A,3772,Jessheim stasjon/Vilberg skole,,3,,FFFFFF,000000
+2260-2657,A,3773,Ask/Eidsvoll vgs.,,3,,FFFFFF,000000
+2260-2658,A,3778,Stubberud/Vilberg skole,,3,,FFFFFF,000000
+2260-2659,A,3779,Skimten/Vilberg skole,,3,,FFFFFF,000000
+2260-2660,A,3780,Eidsvoll stasjon/Vormsund,,3,,FFFFFF,000000
+2260-2661,A,3781,Langset skole/Eidsvoll stasjon,,3,,FFFFFF,000000
+2260-2662,A,3783,Langset skole/Eidsvoll stasjon,,3,,FFFFFF,000000
+2260-2663,A,3831,Fagerli sykehjem/Preståsen skole pl.,,3,,FFFFFF,000000
+2260-2664,A,3832,Åmål/Nannestad vgs.,,3,,FFFFFF,000000
+2260-2665,A,3833,Ask/Preståsen skole pl.,,3,,FFFFFF,000000
+2260-2666,A,3834,Åmål/Nannestad vgs.,,3,,FFFFFF,000000
+2260-2667,A,3835,Preståsen skole/Nannestad torg,,3,,FFFFFF,000000
+2260-2668,A,3836,Kringlerdalen/Kringler Slattum skpl,,3,,FFFFFF,000000
+2260-2669,A,3837,Eltonåsen skole/Fagerli sykehjem,,3,,FFFFFF,000000
+2260-2670,A,3838,Nannestad torg/Nannestad torg,,3,,FFFFFF,000000
+2260-2671,A,3839,Maura skole/Sandnesseter,,3,,FFFFFF,000000
+2260-2672,A,3872,Eidsvoll stasjon/Nannestad vgs.,,3,,FFFFFF,000000
+2260-2673,A,3873,Sætreringen/Nannestad vgs.,,3,,FFFFFF,000000
+2260-2674,A,3874,Olavsgaard/Nannestad vgs.,,3,,FFFFFF,000000
+2260-2675,A,3875,Vassenden/Nannestad vgs.,,3,,FFFFFF,000000
+2260-2676,A,3876,Eltonåsen/Nannestad,,3,,FFFFFF,000000
+2260-2677,A,3877,Eltonåsen/Nannestad via-Åsvegen,,3,,FFFFFF,000000
+2260-2678,A,3935,Rustad snuplass/Hurdal torg,,3,,FFFFFF,000000
+2260-2679,A,3936,Vassenden/Oslo lufthavn-ankomst,,3,,FFFFFF,000000
+2362-301,A,301,Åneby/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-302,A,302,Kongskog/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-309,A,309,Hellerudhaugen/Jernbanetorget,,3,,FFFFFF,000000
+2362-321,A,321,Lillestrøm terminal/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-339,A,339,Dokkveien/Eltonåsen,,3,,FFFFFF,000000
+2362-345,A,345,Vardefjellet/Blindern,,3,,FFFFFF,000000
+2362-352,A,352,Kløfta stasjon/Helsfyr T,,3,,FFFFFF,000000
+2362-361,A,361,Gullhaug-Tømte/Grorud T,,3,,FFFFFF,000000
+2362-363,A,363,Gullhaug-Tømte/Blindern,,3,,FFFFFF,000000
+2362-401,A,401,Fritidshuset/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-409,A,409,Lillestrøm terminal/Olavsgaard,,3,,FFFFFF,000000
+2362-411,A,411,Lillestrøm terminal/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-412,A,412,Vallerudtoppen/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-415,A,415,Nesåsen/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-417,A,417,Akershus sykehus/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-418,A,418,Blystadlia/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-419,A,419,Lillestrøm terminal/Tollboden,,3,,FFFFFF,000000
+2362-421,A,421,Strømmen stasjon/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-422,A,422,Nittedal kirke/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-423,A,423,Olavsgaard/Helsfyr,,3,,FFFFFF,000000
+2362-431,A,431,Brøterkrysset/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-435,A,435,Lillestrøm terminal/Blindern,,3,,FFFFFF,000000
+2362-476,A,476,Verpet/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-482,A,482,Eidslia/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-486,A,486,Bjørkelangen/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-492,A,492,Fjerdingby/Oslo Bussterminal,,3,,FFFFFF,000000
+2362-499,A,499,Lillestrøm terminal/Tollboden,,3,,FFFFFF,000000
+2362-801,A,801,Nittedal stasjon/Skillebekk,,3,,FFFFFF,000000
+2362-802,A,802,Slattum/Skillebekk,,3,,FFFFFF,000000
+2362-803,A,803,Nittedal stasjon/Dam,,3,,FFFFFF,000000
+2362-841,A,841,Furukollen/Lillestrøm,,3,,FFFFFF,000000
+2362-842,A,842,Skedsmokorset/Lillestrøm,,3,,FFFFFF,000000
+2362-843,A,843,Branderud/Lillestrøm,,3,,FFFFFF,000000
+2362-845,A,845,Vardefjellet/Lillestrøm,,3,,FFFFFF,000000
+2362-846,A,846,Orredalen/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-872,A,872,Lillestrøm terminal/Vallerudtoppen,,3,,FFFFFF,000000
+2362-875,A,875,Verpet/Lillestrøm,,3,,FFFFFF,000000
+2362-881,A,881,Eidslia/Lillestrøm,,3,,FFFFFF,000000
+2362-883,A,883,Bjørkelangen/Lillestrøm,,3,,FFFFFF,000000
+2362-884,A,884,Sørumsand stasjon/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-885,A,885,Hemnes garasje/Løken,,3,,FFFFFF,000000
+2362-2701,A,2131,Finstadbru/Aursmoen us.,,3,,FFFFFF,000000
+2362-2702,A,2132,Aursmoen u. skole/Haneborg skole,,3,,FFFFFF,000000
+2362-2703,A,2133,Aursmoen u. skole/Korsmo,,3,,FFFFFF,000000
+2362-2704,A,2134,Ulviken/Haneborg skole,,3,,FFFFFF,000000
+2362-2705,A,2135,Søndre Mangen/Bjørkelangen us.,,3,,FFFFFF,000000
+2362-2706,A,2137,Harkerud veikryss/Bjørkelangen us.,,3,,FFFFFF,000000
+2362-2707,A,2138,Trosterud/Bjørkelangen vgs.,,3,,FFFFFF,000000
+2362-2708,A,2139,Einerhaugen/Bjørkelangen us.,,3,,FFFFFF,000000
+2362-2709,A,2140,Bjørkelangen u. skole/Liermosen,,3,,FFFFFF,000000
+2362-2710,A,2141,Sjøberg/Løken,,3,,FFFFFF,000000
+2362-2711,A,2142,Smedsrud/Løken,,3,,FFFFFF,000000
+2362-2712,A,2143,Brangerud/Bråte skole,,3,,FFFFFF,000000
+2362-2713,A,2144,Løken/Bråte skole,,3,,FFFFFF,000000
+2362-2714,A,2145,Halvorsrud bru/Bråte skole,,3,,FFFFFF,000000
+2362-2715,A,2146,Bråte skole/Bjørkelangen terminal,,3,,FFFFFF,000000
+2362-2716,A,2147,Bråte skole/Grasåsen,,3,,FFFFFF,000000
+2362-2717,A,2148,Verket/Bråte skole,,3,,FFFFFF,000000
+2362-2718,A,2150,Sollum/Bråte skole,,3,,FFFFFF,000000
+2362-2719,A,2151,Skjeggenes/Setskog skole,,3,,FFFFFF,000000
+2362-2720,A,2171,Furukollen/Bjørkelangen vgs.,,3,,FFFFFF,000000
+2362-2721,A,2172,Basmo/Kjelle skole,,3,,FFFFFF,000000
+2362-2722,A,2173,Lørenfallet/Bjørkelangen terminal,,3,,FFFFFF,000000
+2362-2723,A,2174,Studsrud/Bjørkelangen terminal,,3,,FFFFFF,000000
+2362-2724,A,2175,Bjørkelangen/Krokedal,,3,,FFFFFF,000000
+2362-2725,A,2631,Sørum skole/Lørenfallet,,3,,FFFFFF,000000
+2362-2726,A,2632,Fjuk skole/Haugtun skole,,3,,FFFFFF,000000
+2362-2727,A,2633,Berg/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-2728,A,2634,Bjørkelangen/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-2729,A,2635,Haugtun skole/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-2730,A,2636,Haugtun skole/Mork,,3,,FFFFFF,000000
+2362-2731,A,2639,Vardefjellet/Melvold us.,,3,,FFFFFF,000000
+2362-2732,A,2640,Knatten/Melvold us.,,3,,FFFFFF,000000
+2362-2733,A,2642,Vardefjellet/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-2734,A,2671,Sundet/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-2735,A,2672,Årnes stasjon/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-2736,A,2673,Mork/Sørumsand stasjon,,3,,FFFFFF,000000
+2362-2737,A,2731,Vinsnes/Sundet,,3,,FFFFFF,000000
+2362-2738,A,2732,Dammerud/Riddersand skole,,3,,FFFFFF,000000
+2362-2739,A,2733,Stigen/Dalen skole,,3,,FFFFFF,000000
+2362-2740,A,2734,Krokedal/Sundet,,3,,FFFFFF,000000
+2362-2741,A,2872,Blystadlia/Rælingen vgs.,,3,,FFFFFF,000000
+2362-2742,A,2873,Røykåsveien/Rælingen rådhus,,3,,FFFFFF,000000
+2362-2743,A,3073,Vallerudtoppen/Knatten,,3,,FFFFFF,000000
+2362-2744,A,3131,Vardeåsen/Tærudhallen,,3,,FFFFFF,000000
+2362-2745,A,3132,Åsenhagen skole/Solberg,,3,,FFFFFF,000000
+2362-2746,A,3172,Kongskog/Vestbygata,,3,,FFFFFF,000000
+2362-2747,A,3175,Knatten/Rælingen vgs.,,3,,FFFFFF,000000
+2362-2748,A,3176,Rolvsrud/Vestbygata,,3,,FFFFFF,000000
+2362-2749,A,3331,Kongskog/Li,,3,,FFFFFF,000000
+2362-2750,A,3333,Åneby stasjon/Kirkeby skole,,3,,FFFFFF,000000
+2362-2751,A,3334,Åneby/Kongskog,,3,,FFFFFF,000000
+2362-2752,A,3335,Hellerudhaugen/Kongskog,,3,,FFFFFF,000000
+2362-2753,A,3371,Lillestrøm terminal/Bjertnes vgs,,3,,FFFFFF,000000
+2362-2754,A,3372,Hellerudhaugen/Bjertnes vgs,,3,,FFFFFF,000000
+2362-2755,A,3373,Hagan/Dam,,3,,FFFFFF,000000
+2362-2756,A,3374,Skedsmokorset/Bjertnes vgs,,3,,FFFFFF,000000
+2362-2757,A,3676,Bjørkelangen/Nes vgs.,,3,,FFFFFF,000000
+2362-2758,A,3677,Lørenfallet/Hellne,,3,,FFFFFF,000000
+2362-2759,A,3682,Lørenfallet/Hvam vgs.,,3,,FFFFFF,000000
+2362-2760,A,3684,Hvam vg. skole/Bjørkelangen,,3,,FFFFFF,000000
+2362-2761,A,3871,Rotnes/Nannestad vgs.,,3,,FFFFFF,000000
+2410-2521,A,521X,Tusenfryd/Ski terminal,,3,,FFFFFF,000000
+2410-3500,A,500X,Tusenfryd/Oslo Bussterminal,,3,,FFFFFF,000000
+2528-344,J,FB2,Hotel Scandinavia/Oslo Lufthavn,,3,,FFFFFF,000000
+2696-500,A,500,Drøbak brygge/Oslo Bussterminal,,3,,FFFFFF,000000
+2696-506,A,506,Klommestein/Frogn vgs,,3,,FFFFFF,000000
+2696-507,A,507,Elleveien/Dyrløkke,,3,,FFFFFF,000000
+2696-510,A,510,Bøleråsen/Drøbak,,3,,FFFFFF,000000
+2696-511,A,511,Stenfeltlia/Ski stasjon,,3,,FFFFFF,000000
+2696-512,A,512,Ski terminal/Ski stasjon,,3,,FFFFFF,000000
+2696-513,A,513,Greverud kirke/Ski stasjon,,3,,FFFFFF,000000
+2696-515,A,515,Sværsvann bru/Ski stasjon,,3,,FFFFFF,000000
+2696-516,A,516,Siggerud/Vevelstad stasjon,,3,,FFFFFF,000000
+2696-520,A,520,Vinterbrosenteret/Ski stasjon,,3,,FFFFFF,000000
+2696-521,A,521,Tusenfryd/Ski stasjon,,3,,FFFFFF,000000
+2696-522,A,522,Ski terminal/Ski terminal,,3,,FFFFFF,000000
+2696-525,A,525,Bjastad/Ski stasjon,,3,,FFFFFF,000000
+2696-526,A,526,Ski terminal/Ellingsrudlia-Ski stasjon,,3,,FFFFFF,000000
+2696-530,A,530,Jonas Wessels vei/Vestby stasjon,,3,,FFFFFF,000000
+2696-532,A,532,Vestby stasjon/Kjenn-Garder-Vestby stasjon,,3,,FFFFFF,000000
+2696-535,A,535,Garder kirke/Ås stasjon,,3,,FFFFFF,000000
+2696-536,A,536,Eldor/Ås stasjon,,3,,FFFFFF,000000
+2696-540,A,540,Moss bussterminal/Vestby stasjon,,3,,FFFFFF,000000
+2696-545,A,545,Brevikbukta/Sonsveien stasjon,,3,,FFFFFF,000000
+2696-550,A,550,Lillestrøm terminal/Enebakk kirke,,3,,FFFFFF,000000
+2696-551,A,551,Enebakk kirke/Dalefjerdingen,,3,,FFFFFF,000000
+2696-555,A,555,Enebakk kirke/Ski stasjon,,3,,FFFFFF,000000
+2696-560,A,560,Jaer skole/Nesoddtangen,,3,,FFFFFF,000000
+2696-565,A,565,Torneveien/Nesoddtangen,,3,,FFFFFF,000000
+2696-570,A,570,Sjøskogen/Nesoddtangen,,3,,FFFFFF,000000
+2696-575,A,575,Torneveien/Nesoddtangen,,3,,FFFFFF,000000
+2696-576,A,576,Torneveien/Vinterbro,,3,,FFFFFF,000000
+2696-2500,A,500E,Seiersten/Oslo Bussterminal,,3,,FFFFFF,000000
+2696-2590,A,N590,Oslo Bussterminal/Son,,3,,FFFFFF,000000
+2696-2801,A,1132,Hølen/Vestby stasjon,,3,,FFFFFF,000000
+2696-2802,A,1171,Dyrløkke/Vestby stasjon,,3,,FFFFFF,000000
+2696-2803,A,1331,Siggerud/Bru-Siggerud,,3,,FFFFFF,000000
+2696-2804,A,1333,Retvedt/Kråkstad skole,,3,,FFFFFF,000000
+2696-2805,A,1371,Ski terminal/Ski næringspark,,3,,FFFFFF,000000
+2696-2806,A,1431,Kjærnes/Nordby skole,,3,,FFFFFF,000000
+2696-2807,A,1433,Kroer skole/Kaxrud,,3,,FFFFFF,000000
+2696-2808,A,1434,Nyveien/Brønnerud-Holstad,,3,,FFFFFF,000000
+2696-2809,A,1435,Rustad skole/Dyster/Eldor,,3,,FFFFFF,000000
+2696-2810,A,1436,Fålesloråsen/Nordby skole,,3,,FFFFFF,000000
+2696-2811,A,1531,Holtbråten/Dal skole,,3,,FFFFFF,000000
+2696-2812,A,1533,Tomter/Heer,,3,,FFFFFF,000000
+2696-2813,A,1572,Eikeliveien/Frogn vgs.,,3,,FFFFFF,000000
+2696-2814,A,1631,Fjellstrand skole/Alværn,,3,,FFFFFF,000000
+2696-2815,A,1632,Jaer skole/Alværn,,3,,FFFFFF,000000
+2696-2816,A,1672,Torneveien/Nesodden vgs,,3,,FFFFFF,000000
+2696-2817,A,2931,Enebakk kirke/Dalefjerdingen,,3,,FFFFFF,000000
+2696-2818,A,2932,Ekebergdalen/Enebakk kirke,,3,,FFFFFF,000000
+2696-2819,A,3071,Enebakk kirke/Lørenskog sentrum,,3,,FFFFFF,000000
+2696-3590,A,590E,Vestby stasjon/Ryen T,,3,,FFFFFF,000000
+2768-121,A,121,Sandvika terminal/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-122,A,122,Vangkroken/Hammersborggata ,,3,,FFFFFF,000000
+2768-129,A,129,Smestad/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-131,A,131,Bekkestua terminal/Jar skole,,3,,FFFFFF,000000
+2768-132,A,132,Lønnås/Hammersborggata ,,3,,FFFFFF,000000
+2768-139,A,139,Hosleveien/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-143,A,143,Gullhaug/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-144,A,144,Bykrysset/Hammersborggata ,,3,,FFFFFF,000000
+2768-149,A,149,Gullhaug/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-151,A,151,Rykkinn/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-152,A,152,Rykkinn/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-156,A,156,Rykkinn/Ullevål stadion,,3,,FFFFFF,000000
+2768-159,A,159,Rykkinn/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-242,A,242,Vesthellinga/Oslo Bussterminal,,3,,FFFFFF,000000
+2768-251,A,251,Sætre terminal/Oslo bussterminal,,3,,FFFFFF,000000
+2768-252,A,252,Slemmestad/Oslo bussterminal ,,3,,FFFFFF,000000
+2768-253,A,253,Peterstua/Oslo bussterminal ,,3,,FFFFFF,000000
+2768-259,A,259,Blakstad terminal/Oslo bussterminal,,3,,FFFFFF,000000
+2768-261,A,261,Røyken rådhus/Ullevål stadion,,3,,FFFFFF,000000
+2768-701,A,701,Rustadgrenda/Asker stasjon,,3,,FFFFFF,000000
+2768-703,A,703,Konglungen/Vettre,,3,,FFFFFF,000000
+2768-704,A,704,Barlindbekken/Blakstad,,3,,FFFFFF,000000
+2768-705,A,705,Vesthellinga/Sandvika,,3,,FFFFFF,000000
+2768-706,A,706,Asker stasjon/Vøyen,,3,,FFFFFF,000000
+2768-707,A,707,Asker stasjon/Sandvika,,3,,FFFFFF,000000
+2768-713,A,713,Asker stasjon/Blakstad,,3,,FFFFFF,000000
+2768-720,A,720,Guibekken/Vollen,,3,,FFFFFF,000000
+2768-721,A,721,Asker/Vardåsen,,3,,FFFFFF,000000
+2768-722,A,722,Asker/Blakstad,,3,,FFFFFF,000000
+2768-723,A,723,Asker/Konglungen,,3,,FFFFFF,000000
+2768-724,A,724,Asker/Borgen,,3,,FFFFFF,000000
+2768-725,A,725,Asker/Rortunet,,3,,FFFFFF,000000
+2768-726,A,726,Asker/Høn,,3,,FFFFFF,000000
+2768-731,A,731,Sandvika terminal/Bekkestua,,3,,FFFFFF,000000
+2768-732,A,732,Sandvika terminal/Ila,,3,,FFFFFF,000000
+2768-733,A,733,Økri/Snarøya,,3,,FFFFFF,000000
+2768-751,A,751,Sandvika/Rud,,3,,FFFFFF,000000
+2768-753,A,753,Bykrysset/Sandvika,,3,,FFFFFF,000000
+2768-761,A,761,Smestad/Sandvika,,3,,FFFFFF,000000
+2768-762,A,762,Kattås/Sandvika,,3,,FFFFFF,000000
+2768-771,A,771,Bekkestua terminal/Bekkestua-Sandvika,,3,,FFFFFF,000000
+2768-772,A,772,Bekkestua/Østerås,,3,,FFFFFF,000000
+2768-773,A,773,Bekkestua terminal/Bekkestua-Høvik,,3,,FFFFFF,000000
+2768-774,A,774,Bekkestua terminal/Bekkestua-Ekern,,3,,FFFFFF,000000
+2768-775,A,775,Kleivveien/Bekkestua-Kleivveien,,3,,FFFFFF,000000
+2768-781,A,781,Sandvika terminal/Sandvika-Jong,,3,,FFFFFF,000000
+2768-782,A,782,Tanum kirke/Sandvika-Tanum,,3,,FFFFFF,000000
+2768-783,A,783,Skui eldresenter/Sandvika-Skui,,3,,FFFFFF,000000
+2768-784,A,785,Rykkinn senter/Sandvika-Rykkinn,,3,,FFFFFF,000000
+2768-785,A,785,Sandvika terminal/Sandvika-Gjettum,,3,,FFFFFF,000000
+2768-2851,A,1919,Brenna/Skui skole,,3,,FFFFFF,000000
+2768-2852,A,2004,Høymyrfjellet/Arnestad skole,,3,,FFFFFF,000000
+2768-2853,A,2015,Vesthellinga/Landøya,,3,,FFFFFF,000000
+2768-2854,A,2018,Undelstad/Torstad skole,,3,,FFFFFF,000000
+2768-2855,A,2019,Sætre terrasse/Heggedal skole,,3,,FFFFFF,000000
+3162-11,A,11,Kjelsås/Majorstuen,,0,,FFFFFF,000000
+3162-12,A,12,Kjelsås/Majorstuen,,0,,FFFFFF,000000
+3162-13,A,13,Grefsen stasjon/Jar,,0,,FFFFFF,000000
+3162-16,A,16,-/Brugata,,0,,FFFFFF,000000
+3162-17,A,17,Grefsen stasjon/Rikshospitalet,,0,,FFFFFF,000000
+3162-18,A,18,Rikshospitalet/Ljabru,,0,,FFFFFF,000000
+3162-19,A,19,Ljabru/Majorstuen,,0,,FFFFFF,000000
+3163-11,A,11,Kjelsås/Majorstuen,,0,,FFFFFF,000000
+3163-12,A,12,Kjelsås/Majorstuen,,0,,FFFFFF,000000
+3163-13,A,13,Grefsen stasjon/Jar,,0,,FFFFFF,000000
+3163-17,A,17,Grefsen stasjon/Rikshospitalet,,0,,FFFFFF,000000
+3163-18,A,18,Rikshospitalet/Ljabru,,0,,FFFFFF,000000
+3163-19,A,19,Ljabru/Majorstuen,,0,,FFFFFF,000000
+3164-11,A,11,Kjelsås/Majorstuen,,0,,FFFFFF,000000
+3164-12,A,12,Kjelsås/Majorstuen,,0,,FFFFFF,000000
+3164-13,A,13,Grefsen stasjon/Jar,,0,,FFFFFF,000000
+3164-17,A,17,Grefsen stasjon/Rikshospitalet,,0,,FFFFFF,000000
+3164-18,A,18,Ljabru/Rikshospitalet,,0,,FFFFFF,000000
+3164-19,A,19,Ljabru/Majorstuen,,0,,FFFFFF,000000
+3277-20,A,20,Skøyen stasjon/Galgeberg,,3,,FFFFFF,000000
+3277-21,A,21,Bryggetorget/Helsfyr T,,3,,FFFFFF,000000
+3277-22,A,22,Majorstuen/Ellingsrudåsen,,3,,FFFFFF,000000
+3277-23,A,23,Lysaker/Simensbråten,,3,,FFFFFF,000000
+3277-24,A,24,Fornebu vest/Brynseng T,,3,,FFFFFF,000000
+3277-25,A,25,Årvoll senter/Lørenskog stasjon,,3,,FFFFFF,000000
+3277-28,A,28,Fornebu vest/Helsfyr T,,3,,FFFFFF,000000
+3277-34,A,34,Tåsen senter/Ekeberg hageby,,3,,FFFFFF,000000
+3277-37,A,37,Gullhaugveien/Helsfyr T,,3,,FFFFFF,000000
+3277-54,A,54,Kjelsås stasjon/Jernbanetorget,,3,,FFFFFF,000000
+3277-61,A,61A,Tveita T/Solfjellet,,3,,FFFFFF,000000
+3277-70,A,70,Rådhuset/Skullerud T,,3,,FFFFFF,000000
+3277-71,A,71A,Mortensrud T/Bjørndal,,3,,FFFFFF,000000
+3277-72,A,72A,Mortensrud T/Dal,,3,,FFFFFF,000000
+3277-74,A,74,Vika/Mortensrud,,3,,FFFFFF,000000
+3277-75,A,75A,Lambertseter T/Lambertseter T,,3,,FFFFFF,000000
+3277-76,A,76,Helsfyr T/Hauketo stasjon,,3,,FFFFFF,000000
+3277-77,A,77,Holmlia stasjon/Bjørndal - Langteigåsen,,3,,FFFFFF,000000
+3277-78,A,78A,Bryn senter/Østensjø ring,,3,,FFFFFF,000000
+3277-79,A,79,Grorud T/Holmlia stasjon,,3,,FFFFFF,000000
+3277-80,A,80,Holmlia stasjon/Åsbråten,,3,,FFFFFF,000000
+3277-81,A,81A,Rådhuset/Greverud,,3,,FFFFFF,000000
+3277-82,A,82E,Tollboden/Tårnåsen ,,3,,FFFFFF,000000
+3277-83,A,83,Rådhuset/Tårnåsen,,3,,FFFFFF,000000
+3277-84,A,84E,Tollboden/Sofiemyr ,,3,,FFFFFF,000000
+3277-85,A,85,Tollboden/Ulvøya,,3,,FFFFFF,000000
+3277-86,A,86,Oppegård rådhus/Kolbotn skole,,3,,FFFFFF,000000
+3277-102,A,102,Lørenskog sentrum/Helsfyr T,,3,,FFFFFF,000000
+3277-103,A,103,Bjørndal/Helsfyr T,,3,,FFFFFF,000000
+3277-104,A,104,Bergkrystallen T/Helsfyr T,,3,,FFFFFF,000000
+3277-105,A,105,Vestli T/Jernbanetorget,,3,,FFFFFF,000000
+3277-107,A,107,Helsfyr T/Nydalen stasjon,,3,,FFFFFF,000000
+3277-108,A,108,Helsfyr T/Grorud stasjon,,3,,FFFFFF,000000
+3277-109,A,109,Helsfyr T/Holtet,,3,,FFFFFF,000000
+3277-111,A,111,Kjelsås stasjon/Majorstuen,,3,,FFFFFF,000000
+3277-112,A,112,Majorstuen/Kjelsås stasjon,,3,,FFFFFF,000000
+3277-118,A,118,Kongleveien/Jernbanetorget,,3,,FFFFFF,000000
+3277-119,A,119,Åsbråten/Jernbanetorget,,3,,FFFFFF,000000
+3277-2061,A,61B,Tveita T/Bøler T,,3,,FFFFFF,000000
+3277-2072,A,72B,Mortensrud T/Pasop,,3,,FFFFFF,000000
+3277-2075,A,75B,Lambertseter T/Lambertseter ring,,3,,FFFFFF,000000
+3277-2077,A,77B,Holmlia stasjon/Asperudåsen,,3,,FFFFFF,000000
+3277-2078,A,78B,Bryn senter/Østensjø ring,,3,,FFFFFF,000000
+3277-2080,A,80E,Rådhuset/Åsbråten,,3,,FFFFFF,000000
+3277-2081,A,81B,Rådhuset/Ødegården,,3,,FFFFFF,000000
+3277-3071,A,71B,Mortensrud T/Bjørndal,,3,,FFFFFF,000000
+3277-3072,A,72C,Mortensrud T/Maikollen,,3,,FFFFFF,000000
+3277-3077,A,77X,Hauketo stasjon/Bjørndal,,3,,FFFFFF,000000
+3277-3902,A,N2,Østerås T/Lørenskog sentrum,,3,,FFFFFF,000000
+3277-3903,A,N3,Jernbanetorget/Skullerud,,3,,FFFFFF,000000
+3277-3904,A,N4,Jernbanetorget/Bergkrystallen,,3,,FFFFFF,000000
+3277-3905,A,N5,Jernbanetorget/Vestli T,,3,,FFFFFF,000000
+3277-3912,A,N12,Ullerntoppen/Kjelsås stasjon,,3,,FFFFFF,000000
+3277-3918,A,N18,Kringsjå/Åsbråten,,3,,FFFFFF,000000
+3277-3920,A,N20,Skøyen stasjon/Helsfyr via Galgeberg,,3,,FFFFFF,000000
+3277-3930,A,N30,Huk/Jernbanetorget,,3,,FFFFFF,000000
+3277-3932,A,N32,Voksen skog/Jernbanetorget,,3,,FFFFFF,000000
+3277-3954,A,N54,Bryggetorget/Kjelsås stasjon,,3,,FFFFFF,000000
+3277-3970,A,N70,Jernbanetorget/Bjørndal,,3,,FFFFFF,000000
+3277-3981,A,N81,Rådhuset/Ski stasjon,,3,,FFFFFF,000000
+3277-3983,A,N83,Rådhuset/Vestbanen,,3,,FFFFFF,000000
+3278-20,A,20,Skøyen stasjon/Galgeberg,,3,,FFFFFF,000000
+3278-21,A,21,Bryggetorget/Helsfyr T,,3,,FFFFFF,000000
+3278-22,A,22,Majorstuen/Ellingsrudåsen,,3,,FFFFFF,000000
+3278-23,A,23,Lysaker/Simensbråten,,3,,FFFFFF,000000
+3278-24,A,24,Fornebu vest/Brynseng T,,3,,FFFFFF,000000
+3278-25,A,25,Majorstuen/Lørenskog stasjon,,3,,FFFFFF,000000
+3278-28,A,28,Fornebu vest/Helsfyr T,,3,,FFFFFF,000000
+3278-34,A,34,Tåsen senter/Ekeberg hageby,,3,,FFFFFF,000000
+3278-37,A,37,Gullhaugveien/Helsfyr T,,3,,FFFFFF,000000
+3278-54,A,54,Kjelsås stasjon/Jernbanetorget,,3,,FFFFFF,000000
+3278-61,A,61A,Tveita T/Solfjellet,,3,,FFFFFF,000000
+3278-70,A,70,Rådhuset/Skullerud T,,3,,FFFFFF,000000
+3278-71,A,71A,Mortensrud T/Bjørndal,,3,,FFFFFF,000000
+3278-72,A,72A,Mortensrud T/Dal,,3,,FFFFFF,000000
+3278-74,A,74,Vika/Mortensrud,,3,,FFFFFF,000000
+3278-75,A,75A,Lambertseter T/Lambertseter T,,3,,FFFFFF,000000
+3278-76,A,76,Mortensrud T/Hauketo stasjon,,3,,FFFFFF,000000
+3278-77,A,77,Holmlia stasjon/Bjørndal - Langteigåsen,,3,,FFFFFF,000000
+3278-78,A,78A,Bryn senter/Østensjø ring,,3,,FFFFFF,000000
+3278-79,A,79,Grorud T/Holmlia stasjon,,3,,FFFFFF,000000
+3278-80,A,80,Holmlia stasjon/Åsbråten,,3,,FFFFFF,000000
+3278-81,A,81A,Rådhuset/Greverud,,3,,FFFFFF,000000
+3278-82,A,82E,Tollboden/Tårnåsen ,,3,,FFFFFF,000000
+3278-83,A,83,Rådhuset/Tårnåsen,,3,,FFFFFF,000000
+3278-84,A,84E,Tollboden/Sofiemyr ,,3,,FFFFFF,000000
+3278-85,A,85,Tollboden/Ulvøya,,3,,FFFFFF,000000
+3278-86,A,86,Oppegård rådhus/Kolbotn skole,,3,,FFFFFF,000000
+3278-102,A,102,Lørenskog sentrum/Helsfyr T,,3,,FFFFFF,000000
+3278-103,A,103,Bjørndal/Helsfyr T,,3,,FFFFFF,000000
+3278-104,A,104,Bergkrystallen T/Helsfyr T,,3,,FFFFFF,000000
+3278-105,A,105,Vestli T/Jernbanetorget,,3,,FFFFFF,000000
+3278-107,A,107,Helsfyr T/Nydalen stasjon,,3,,FFFFFF,000000
+3278-108,A,108,Helsfyr T/Postterminalen,,3,,FFFFFF,000000
+3278-109,A,109,Helsfyr T/Holtet,,3,,FFFFFF,000000
+3278-111,A,111,Kjelsås stasjon/Majorstuen,,3,,FFFFFF,000000
+3278-112,A,112,Majorstuen/Kjelsås stasjon,,3,,FFFFFF,000000
+3278-118,A,118,Kongleveien/Jernbanetorget,,3,,FFFFFF,000000
+3278-119,A,119,Åsbråten/Jernbanetorget,,3,,FFFFFF,000000
+3278-2061,A,61B,Tveita T/Bøler T,,3,,FFFFFF,000000
+3278-2072,A,72B,Mortensrud T/Pasop,,3,,FFFFFF,000000
+3278-2075,A,75B,Lambertseter T/Lambertseter ring,,3,,FFFFFF,000000
+3278-2077,A,77B,Holmlia stasjon/Asperudåsen,,3,,FFFFFF,000000
+3278-2078,A,78B,Bryn senter/Østensjø ring,,3,,FFFFFF,000000
+3278-2080,A,80E,Rådhuset/Åsbråten,,3,,FFFFFF,000000
+3278-2081,A,81B,Rådhuset/Ødegården,,3,,FFFFFF,000000
+3278-3071,A,71B,Mortensrud T/Bjørndal,,3,,FFFFFF,000000
+3278-3072,A,72C,Mortensrud T/Maikollen,,3,,FFFFFF,000000
+3278-3077,A,77X,Hauketo stasjon/Bjørndal,,3,,FFFFFF,000000
+3278-3902,A,N2,Østerås T/Lørenskog sentrum,,3,,FFFFFF,000000
+3278-3903,A,N3,Jernbanetorget/Skullerud,,3,,FFFFFF,000000
+3278-3904,A,N4,Jernbanetorget/Bergkrystallen,,3,,FFFFFF,000000
+3278-3905,A,N5,Jernbanetorget/Vestli T,,3,,FFFFFF,000000
+3278-3912,A,N12,Ullerntoppen/Kjelsås stasjon,,3,,FFFFFF,000000
+3278-3918,A,N18,Kringsjå/Åsbråten,,3,,FFFFFF,000000
+3278-3920,A,N20,Skøyen stasjon/Helsfyr via Galgeberg,,3,,FFFFFF,000000
+3278-3930,A,N30,Huk/Jernbanetorget,,3,,FFFFFF,000000
+3278-3932,A,N32,Voksen skog/Jernbanetorget,,3,,FFFFFF,000000
+3278-3954,A,N54,Bryggetorget/Kjelsås stasjon,,3,,FFFFFF,000000
+3278-3970,A,N70,Jernbanetorget/Bjørndal,,3,,FFFFFF,000000
+3278-3981,A,N81,Rådhuset/Ski stasjon,,3,,FFFFFF,000000
+3278-3983,A,N83,Rådhuset/Vestbanen,,3,,FFFFFF,000000
+3359-1,A,1,Ellingsrudåsen/Frognerseteren,,1,,838FC7,FFFFFF
+3359-2,A,2,Kolsås/Ellingsrudåsen,,1,,009CCF,FFFFFF
+3359-3,A,3,Stortinget/Mortensrud,,1,,F9A519,000000
+3359-4,A,4,Ringen/Bergkrystallen,,1,,0053A5,FFFFFF
+3359-5,A,5,Østerås/Vestli,,1,,E8590B,FFFFFF
+3360-1,A,1,Ellingsrudåsen/Frognerseteren,,1,,838FC7,FFFFFF
+3360-2,A,2,Kolsås/Ellingsrudåsen,,1,,009CCF,FFFFFF
+3360-3,A,3,Kolsås/Mortensrud,,1,,F9A519,000000
+3360-4,A,4,Ringen/Bergkrystallen,,1,,0053A5,FFFFFF
+3360-5,A,5,Østerås/Vestli,,1,,E8590B,FFFFFF
+3431-3017,A,17B,John Colletts plass/Jernbanetorget,,3,,FFFFFF,000000
+3431-3018,A,18B,John Colletts plass/Jernbanetorget,,3,,FFFFFF,000000
+3655-41,A,41,Skansebakken/Røa T,,3,,FFFFFF,000000
+3655-45,A,45,Voksen skog/Majorstuen,,3,,FFFFFF,000000
+3655-46,A,46,Ullerntoppen/Majorstuen,,3,,FFFFFF,000000
+3740-33,A,33,Filipstad/Ellingsrudåsen T,,3,,FFFFFF,000000
+3740-51,A,51,Skar/Tamburveien,,3,,FFFFFF,000000
+3740-56,A,56,Tamburveien/Solemskogen,,3,,FFFFFF,000000
+3740-58,A,58,Tamburveien/Tveita T,,3,,FFFFFF,000000
+3740-60,A,60,Vippetangen/Tonsenhagen,,3,,FFFFFF,000000
+3740-62,A,62,Grorud T/Grorud T,,3,,FFFFFF,000000
+3740-63,A,63,Grorud T/Grorud T,,3,,FFFFFF,000000
+3740-64,A,64A,Furuset T/Stovner T,,3,,FFFFFF,000000
+3740-65,A,65,Furuset T/Stovner T,,3,,FFFFFF,000000
+3740-66,A,66,Helsfyr T/Grorud T,,3,,FFFFFF,000000
+3740-67,A,67,Økern T/Lørenskog sentrum,,3,,FFFFFF,000000
+3740-68,A,68,Helsfyr T/Grorud T,,3,,FFFFFF,000000
+3740-69,A,69,Tveita T/Ole Messelts vei,,3,,FFFFFF,000000
+3740-2056,A,56B,Tamburveien/Grefsenkollen,,3,,FFFFFF,000000
+3740-2064,A,64B,Furuset T/Stovner T,,3,,FFFFFF,000000
+3740-2069,A,69B,Tveita T/Tveita T,,3,,FFFFFF,000000
+3835-95,A,B1,Rådhuset/Rådhuset,,4,,FFFFFF,000000
+3984-30,A,30,Rådhuset/Tamburveien,,3,,FFFFFF,000000
+3984-31,A,31,Snarøya/Grorud T,,3,,FFFFFF,000000
+3984-32,A,32,Voksen skog/Kværnerbyen,,3,,FFFFFF,000000
+3984-36,A,36E,Fornebu vest/Oslo Bussterminal,,3,,FFFFFF,000000
+3984-2031,A,31E,Fornebu vest/Linderudsletta,,3,,FFFFFF,000000
+3984-3963,A,N63,Grorud T/Grorud T,,3,,FFFFFF,000000
+4128-1111,Ø,111,Svinesundsparken/Strømstad stasjon,,3,,FFFFFF,000000
+4133-1001,Ø,R1,Halden bussterminal/Halden bussterminal,,3,,FFFFFF,000000
+4133-1002,Ø,R2,Halden bussterminal/Halden bussterminal,,3,,FFFFFF,000000
+4133-1100,Ø,100,Halden bussterminal/Moss bussterminal,,3,,FFFFFF,000000
+4133-1110,Ø,110,Halden bussterminal/Isebakke,,3,,FFFFFF,000000
+4133-1112,Ø,112,Halden bussterminal/Halden bussterminal,,3,,FFFFFF,000000
+4133-1113,Ø,113,Halden bussterminal/Holtet,,3,,FFFFFF,000000
+4133-1114,Ø,114,Halden bussterminal/Tomasgården Kornsjø,,3,,FFFFFF,000000
+4133-1115,Ø,115,Halden bussterminal/Elgklev,,3,,FFFFFF,000000
+4133-1118,Ø,118,Halden bussterminal/Sponvika,,3,,FFFFFF,000000
+4133-1121,Ø,121,Halden bussterminal/Moen,,3,,FFFFFF,000000
+4133-1123,Ø,123,Fjell bru/Kalerud veikryss,,3,,FFFFFF,000000
+4133-1124,Ø,124,Strømsfoss/Skodsberg,,3,,FFFFFF,000000
+4133-1131,Ø,131,Ørje busstorg/Granerud,,3,,FFFFFF,000000
+4133-1132,Ø,132,Ørje busstorg/Damholtet,,3,,FFFFFF,000000
+4133-1140,Ø,140,Halden bussterminal/Ørje busstorg,,3,,FFFFFF,000000
+4133-1150,Ø,150,Halden bussterminal/Sykehuset Østfold Kalnes,,3,,FFFFFF,000000
+4133-1200,Ø,200,Fredrikstad sentrum/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1201,Ø,201,Sarpsborg bussterminal/Bergli Skjeberg,,3,,FFFFFF,000000
+4133-1202,Ø,202,Sarpsborg bussterminal/Hasle snuplass,,3,,FFFFFF,000000
+4133-1203,Ø,203,Sarpsborg bussterminal/Ise stasjon,,3,,FFFFFF,000000
+4133-1204,Ø,204,Sarpsborg busst./Klavestadhaugen-Tunejordet,,3,,FFFFFF,000000
+4133-1205,Ø,205,Sarpsborg bussterminal/Fredrikstad sentrum,,3,,FFFFFF,000000
+4133-1207,Ø,207,Sarpsborg busst./Surfellingen-Bede,,3,,FFFFFF,000000
+4133-1208,Ø,208,Sarpsborg bussterminal/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1211,Ø,211,Kvastebyen/Råde stasjon,,3,,FFFFFF,000000
+4133-1212,Ø,212,Sarpsborg bussterminal/Løkkevika snuplass,,3,,FFFFFF,000000
+4133-1213,Ø,213,Sarpsborg bussterminal/Syverstad,,3,,FFFFFF,000000
+4133-1215,Ø,215,Blessom snuplass/Sykehuset Østfold Kalnes,,3,,FFFFFF,000000
+4133-1301,Ø,301,Fredrikstad stasjon/Vikerkilen,,3,,FFFFFF,000000
+4133-1302,Ø,302,Fredrikstad sentrum/Vikane,,3,,FFFFFF,000000
+4133-1303,Ø,303,Fredrikstad stasjon/Rødåsen snuplass,,3,,FFFFFF,000000
+4133-1305,Ø,305,Fredrikstad sentrum/Torpekrysset,,3,,FFFFFF,000000
+4133-1316,Ø,316,Karlshus Råde/Moss bussterminal,,3,,FFFFFF,000000
+4133-1350,Ø,350,Gluppe/Gluppe,,3,,FFFFFF,000000
+4133-1351,Ø,351,Fredrikstad sentrum/Veum sykehus,,3,,FFFFFF,000000
+4133-1353,Ø,353,Oredalen Sandbækveien/Oredalen Sandbækveien,,3,,FFFFFF,000000
+4133-1355,Ø,355,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1356,Ø,356,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1357,Ø,357,Sølvstien/Skjærviken snuplass,,3,,FFFFFF,000000
+4133-1358,Ø,358,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1359,Ø,359,Begbysenter/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1361,Ø,361,Fredrikstad bussterminal/Moum,,3,,FFFFFF,000000
+4133-1362,Ø,362,Fredrikstad bussterminal/Holm,,3,,FFFFFF,000000
+4133-1363,Ø,363,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1364,Ø,364,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1365,Ø,365,Tunellen øst/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1366,Ø,366,Bratte Bakke/Utgårdskilen,,3,,FFFFFF,000000
+4133-1372,Ø,372,Skjæløy/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1373,Ø,373,Tomb kapell/Fredrikstad stasjon,,3,,FFFFFF,000000
+4133-1380,Ø,380,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1381,Ø,381,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1385,Ø,385,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1386,Ø,386,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1387,Ø,387,Fredrikstad bussterminal/Lahellemoen,,3,,FFFFFF,000000
+4133-1390,Ø,390,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1391,Ø,391,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1392,Ø,392,Fredrikstad bussterminal/Fredrikstad bussterminal,,3,,FFFFFF,000000
+4133-1400,Ø,400,Halden bussterminal/Moss bussterminal,,3,,FFFFFF,000000
+4133-1403,Ø,403,Moss bussterminal/Larkollen Sørli,,3,,FFFFFF,000000
+4133-1404,Ø,404,Moss bussterminal/Gaustadkrysset,,3,,FFFFFF,000000
+4133-1406,Ø,406,Moss bussterminal/Husebyskogen,,3,,FFFFFF,000000
+4133-1408,Ø,408,Moss bussterminal/Nes camping,,3,,FFFFFF,000000
+4133-1410,Ø,M1,Refsnes/Øreåsen,,3,,FFFFFF,000000
+4133-1414,Ø,414,Moss bussterminal/Moss bussterminal,,3,,FFFFFF,000000
+4133-1415,Ø,415,Moss bussterminal/Tronvik,,3,,FFFFFF,000000
+4133-1416,Ø,416,Moss bussterminal/Orkerød,,3,,FFFFFF,000000
+4133-1420,Ø,M2,Kambo Kulpeveien/Øreåsen,,3,,FFFFFF,000000
+4133-1455,Ø,455,Askim torg/Skjønhaug ungdomsskole,,3,,FFFFFF,000000
+4133-1456,Ø,456,Mysen stasjon/Skjønhaug torv,,3,,FFFFFF,000000
+4133-1457,Ø,457,Skjønhaug torv/Skjønhaug torv,,3,,FFFFFF,000000
+4133-1459,Ø,459,Askim stasjon/Solbergfoss,,3,,FFFFFF,000000
+4133-1460,Ø,460,Askim posthus/Askim stasjon,,3,,FFFFFF,000000
+4133-1461,Ø,461,Askim stasjon/Askim stasjon,,3,,FFFFFF,000000
+4133-1462,Ø,462,Ihlen/Askim stasjon,,3,,FFFFFF,000000
+4133-1465,Ø,465,Mysen stasjon/Mysen stasjon,,3,,FFFFFF,000000
+4133-1467,Ø,467,Askim stasjon/Vestgård skole,,3,,FFFFFF,000000
+4133-1468,Ø,468,Smaalenene hotell/Spydeberg torv,,3,,FFFFFF,000000
+4133-1469,Ø,469,Libru rv 115/Askim stasjon,,3,,FFFFFF,000000
+4133-1471,Ø,471,Spydeberg torv/Svikebøl,,3,,FFFFFF,000000
+4133-1472,Ø,472,Spydeberg stasjon/Delet,,3,,FFFFFF,000000
+4133-1473,Ø,473,Askim stasjon/Moss bussterminal,,3,,FFFFFF,000000
+4133-1474,Ø,474,Elvestad rv 120/Mysen vg. skole,,3,,FFFFFF,000000
+4133-1480,Ø,480,Askim posthus/Askim posthus,,3,,FFFFFF,000000
+4133-1481,Ø,481,Askim stasjon/Mysen stasjon,,3,,FFFFFF,000000
+4133-1482,Ø,482,Ørje busstorg/Mysen stasjon,,3,,FFFFFF,000000
+4133-1483,Ø,483,Mysen stasjon/Folkenborgveien,,3,,FFFFFF,000000
+4133-1485,Ø,485,Halden bussterminal/Mysen stasjon,,3,,FFFFFF,000000
+4133-1486,Ø,486,Rakkestad stasjon/Mysen stasjon,,3,,FFFFFF,000000
+4133-1489,Ø,489,Askim stasjon/Rakkestad stasjon,,3,,FFFFFF,000000
+4133-1491,Ø,491,Rakkestad stasjon/Rakkestad u. skole,,3,,FFFFFF,000000
+4133-1492,Ø,492,Rakkestad stasjon/Rakkestad stasjon,,3,,FFFFFF,000000
+4133-1493,Ø,493,Bergenhuskrysset/Mysen vg. skole,,3,,FFFFFF,000000
+4133-1563,Ø,563,Ørje busstorg/Folkenborgveien,,3,,FFFFFF,000000
+4133-1580,Ø,580,Moss bussterminal/Gjerstad,,3,,FFFFFF,000000
+4133-1602,Ø,602,Gamlebyen fergeleie/Gressvik fergeleie,,4,,FFFFFF,000000
+4133-1603,Ø,603,Gamlebyen fergeleie/Cicignon fergeleie,,4,,FFFFFF,000000
+4133-1604,Ø,604,Sellebakk fergeleie/Lisleby fergeleie,,4,,FFFFFF,000000
+4133-1700,Ø,2300,Sarpsborg bussterminal/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1771,Ø,2371,Sarpsborg bussterminal/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1781,Ø,2381,Sarpsborg bussterminal/Jelsnes skole,,3,,FFFFFF,000000
+4133-1803,Ø,2403,Sarpsborg bussterminal/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1820,Ø,2420,Sarpsborg bussterminal/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1830,Ø,2430,Sarpsborg bussterminal/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1844,Ø,2444,Sarpsborg bussterminal/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1850,Ø,2450,Fredrikstad stasjon/Sarpsborg bussterminal,,3,,FFFFFF,000000
+4133-1860,Ø,2460,Sykehuset Østfold Kalnes/Fredrikstad stasjon,,3,,FFFFFF,000000
+4133-1870,Ø,2470,Rødåsen snuplass/Inspiria Science Center,,3,,FFFFFF,000000
+4133-1880,Ø,2480,Vaterland snuplass/Sykehuset Østfold Kalnes,,3,,FFFFFF,000000
+4133-1890,Ø,2490,Langøyåsen snuplass/Inspiria Science Center,,3,,FFFFFF,000000
+4461-4001,H,B1,E. J. Berghs veg/Sanderud sykehus,,3,,FFFFFF,000000
+4461-4002,H,B2,Hamar skysstasjon/Furuberget,,3,,FFFFFF,000000
+4461-4003,H,B3,Stange rådhus/Fossumfeltet snuplassen,,3,,FFFFFF,000000
+4461-4004,H,B4,HIAS/Ingebergfeltet,,3,,FFFFFF,000000
+4461-4005,H,B5,Hamar skysstasjon/Smeby,,3,,FFFFFF,000000
+4461-4012,H,12,Moelv stasjon/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4013,H,13,Brumunddal Sjurstuvegen/Jølstad,,3,,FFFFFF,000000
+4461-4014,H,14,Brumunddal Sjurstuvegen/Nes skole,,3,,FFFFFF,000000
+4461-4015,H,15,Brumunddal Sjurstuvegen/Moelv stasjon,,3,,FFFFFF,000000
+4461-4016,H,16,Kylstad skole/Ringsaker vg. skole Brumunddal,,3,,FFFFFF,000000
+4461-4017,H,17,Lefstorvet/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4018,H,18,Jølstad/Nes skole,,3,,FFFFFF,000000
+4461-4019,H,19,Brumunddal Sjurstuvegen/Nes skole,,3,,FFFFFF,000000
+4461-4020,H,20,Brumunddal Sjurstuvegen/Nes skole,,3,,FFFFFF,000000
+4461-4023,H,23,Helleberget/Brumunddal Sjurstuvegen,,3,,FFFFFF,000000
+4461-4024,H,24,Brumunddal rutebilstasjon/Arneberg,,3,,FFFFFF,000000
+4461-4025,H,25,Brumunddal rutebilstasjon/Nybygda,,3,,FFFFFF,000000
+4461-4026,H,26,Brumunddal rutebilstasjon/Brumund,,3,,FFFFFF,000000
+4461-4032,H,32,Hamar skysstasjon/Løten stasjon,,3,,FFFFFF,000000
+4461-4033,H,33,Løten/Nordbygda,,3,,FFFFFF,000000
+4461-4034,H,34,Løten stasjon/Damvegen,,3,,FFFFFF,000000
+4461-4040,H,40,Ormseter/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4041,H,41,Hamar skysstasjon/Bekken,,3,,FFFFFF,000000
+4461-4051,H,51,Stange skysstasjon/Mjøsvang,,3,,FFFFFF,000000
+4461-4053,H,53,Stange skysstasjon/Støa,,3,,FFFFFF,000000
+4461-4054,H,54,Stange skysstasjon/Hamar katedralskole,,3,,FFFFFF,000000
+4461-4055,H,55,Høgåstorvet/Hamar katedralskole,,3,,FFFFFF,000000
+4461-4101,H,101,Korsgård/Steinerskolen,,3,,FFFFFF,000000
+4461-4102,H,102,Åsvang/Stange skysstasjon,,3,,FFFFFF,000000
+4461-4104,H,104,Åsvang/Stange skysstasjon,,3,,FFFFFF,000000
+4461-4105,H,105,Stange u. skole/Stange skysstasjon,,3,,FFFFFF,000000
+4461-4106,H,106,Solvin skole/Egerom,,3,,FFFFFF,000000
+4461-4107,H,107,Mosebekken/Tangen skole,,3,,FFFFFF,000000
+4461-4108,H,108,Hamar skysstasjon/Jønsberg vg. skole,,3,,FFFFFF,000000
+4461-4109,H,109,Romedal/Romedal u. skole,,3,,FFFFFF,000000
+4461-4110,H,110,Hoberg skole/Kjonerud,,3,,FFFFFF,000000
+4461-4111,H,111,Stange u. skole/Tangen,,3,,FFFFFF,000000
+4461-4112,H,112,Romedal/Romedal u. skole,,3,,FFFFFF,000000
+4461-4113,H,113,Hamar skysstasjon/Romedal u. skole,,3,,FFFFFF,000000
+4461-4114,H,114,Romedal/Vallset skole,,3,,FFFFFF,000000
+4461-4115,H,115,Stange vg. skole/Elverum skysstasjon,,3,,FFFFFF,000000
+4461-4116,H,116,Hedemarken friskole/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4117,H,117,Vallset skole/Steinerskolen,,3,,FFFFFF,000000
+4461-4118,H,118,Grimerud/Hedemarken friskole,,3,,FFFFFF,000000
+4461-4119,H,119,Steinerskolen/Haukstad bru,,3,,FFFFFF,000000
+4461-4135,H,135,Tynset bussterminal/Trondheim,,3,,FFFFFF,000000
+4461-4170,H,170,Brumunddal Sjurstuvegen/Elverum sykehus,,3,,FFFFFF,000000
+4461-4171,H,171,Hamar skysstasjon/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4461-4172,H,172,Elverum sykehus/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4201,H,201,Jølstad/Nes skole,,3,,FFFFFF,000000
+4461-4202,H,202,Hobrenna/Gaupen skole,,3,,FFFFFF,000000
+4461-4203,H,203,Nes skole/Nes skole,,3,,FFFFFF,000000
+4461-4204,H,204,Nes skole/Nes skole,,3,,FFFFFF,000000
+4461-4205,H,205,Nes skole/Nes skole,,3,,FFFFFF,000000
+4461-4206,H,206,Stavsjø/Tingnes,,3,,FFFFFF,000000
+4461-4207,H,207,Bergsmeieriet/Nes skole,,3,,FFFFFF,000000
+4461-4208,H,208,Brumunddal Sjurstuvegen/Lillevegen,,3,,FFFFFF,000000
+4461-4209,H,209,Nydal Gjerluvegen/Kirkenær skole,,3,,FFFFFF,000000
+4461-4210,H,210,Furnes u. skole/Brumunddal Sjurstuvegen,,3,,FFFFFF,000000
+4461-4211,H,211,Brumunddal Sjurstuvegen/Lillevegen,,3,,FFFFFF,000000
+4461-4213,H,213,Brumunddal Sjurstuvegen/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4214,H,214,Ringsaker vg. skole Brumunddal/Moelv stasjon,,3,,FFFFFF,000000
+4461-4216,H,216,Brumunddal Sjurstuvegen/Stange vg. skole,,3,,FFFFFF,000000
+4461-4218,H,218,Kirkenær skole/Furnes u. skole,,3,,FFFFFF,000000
+4461-4219,H,219,Fagerlund skole/Brumunddal Sjurstuvegen,,3,,FFFFFF,000000
+4461-4220,H,220,Brumunddal Sjurstuvegen/Furnes u. skole,,3,,FFFFFF,000000
+4461-4222,H,222,Hamar skysstasjon/Furnes u. skole,,3,,FFFFFF,000000
+4461-4223,H,223,Ringsaker vg. skole Brumunddal/Strandsagvegen,,3,,FFFFFF,000000
+4461-4270,H,270,Moelv stasjon/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4461-4271,H,271,Moelv stasjon/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4461-4272,H,272,Lillehammer skysstasjon/Moelv stasjon,,3,,FFFFFF,000000
+4461-4273,H,273,Lillehammer skysstasjon/Brøttum skole,,3,,FFFFFF,000000
+4461-4274,H,274,Mesnalia/Brøttum skole,,3,,FFFFFF,000000
+4461-4290,H,290,Fagernes skole/Moelv stasjon,,3,,FFFFFF,000000
+4461-4293,H,293,Moelv stasjon/Ringsrunden,,3,,FFFFFF,000000
+4461-4294,H,294,Moelv stasjon/Ringbuss,,3,,FFFFFF,000000
+4461-4301,H,301,Imerslund/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4302,H,302,Hamar skysstasjon/Ener u. skole,,3,,FFFFFF,000000
+4461-4303,H,303,Ener u. skole/Vang sentral,,3,,FFFFFF,000000
+4461-4304,H,304,Lunden skole/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4305,H,305,Åker/Ener u. skole,,3,,FFFFFF,000000
+4461-4306,H,306,Åker/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4307,H,307,Åkershagan/Hamar katedralskole,,3,,FFFFFF,000000
+4461-4308,H,308,Hamar katedralskole/Greftenmoen,,3,,FFFFFF,000000
+4461-4310,H,310,Steinerskolen/Wik matsenter,,3,,FFFFFF,000000
+4461-4312,H,312,Hamar katedralskole/Hamar skysstasjon,,3,,FFFFFF,000000
+4461-4350,H,350,Hamar katedralskole/Løten stasjon,,3,,FFFFFF,000000
+4461-4400,H,400,Kongsvinger/Sand,,3,,FFFFFF,000000
+4461-4410,H,410,Sand/Skarnes stasjon,,3,,FFFFFF,000000
+4461-4415,H,415,Kongsvinger/Skarnes Korsmo,,3,,FFFFFF,000000
+4461-4417,H,417,Skarnes stasjon/Høgholen,,3,,FFFFFF,000000
+4461-4418,H,418,Disenå skole/Sæterlisjøen,,3,,FFFFFF,000000
+4461-4420,H,420,Sand sentralskole/Verket,,3,,FFFFFF,000000
+4461-4422,H,422,Sand sentralskole/Høgbråten,,3,,FFFFFF,000000
+4461-4425,H,425,Nord-Odal u. skole/Loppetorget,,3,,FFFFFF,000000
+4461-4431,H,431,Nord-Odal u. skole/Skarnes stasjon,,3,,FFFFFF,000000
+4461-4432,H,432,Nord-Odal u. skole/Korsholen,,3,,FFFFFF,000000
+4461-4433,H,433,Nord-Odal u. skole/Sand,,3,,FFFFFF,000000
+4461-4434,H,434,Nord-Odal u. skole/Fjellkrysset,,3,,FFFFFF,000000
+4461-4440,H,440,Skarnes idrettshall/Sander skole,,3,,FFFFFF,000000
+4461-4442,H,442,Skarnes idrettshall/Gaustad,,3,,FFFFFF,000000
+4461-4443,H,443,Skarnes Korsmo/Skarnes idrettshall,,3,,FFFFFF,000000
+4461-4450,H,450,Sander skole/Skarnes Korsmo,,3,,FFFFFF,000000
+4461-4452,H,452,Sander skole/Sander skole,,3,,FFFFFF,000000
+4461-4453,H,453,Spetalen/Sander skole,,3,,FFFFFF,000000
+4461-4460,H,460,Slåstad sentralskole/Oppstad bru vest,,3,,FFFFFF,000000
+4461-4470,H,470,Eidsvoll stasjon/Sand,,3,,FFFFFF,000000
+4461-4500,H,500,Flisa busstasjon/Elverum skysstasjon,,3,,FFFFFF,000000
+4461-4501,H,B1,Kongsvinger/Bogeråsen,,3,,FFFFFF,000000
+4461-4503,H,B2,Politihøgskolens skolesenter/Marikollen skole,,3,,FFFFFF,000000
+4461-4510,H,510,Bilsenteret/Hokåsen,,3,,FFFFFF,000000
+4461-4515,H,515,Kongsvinger/Austmarka skole,,3,,FFFFFF,000000
+4461-4516,H,516,Kongsvinger/Austbo,,3,,FFFFFF,000000
+4461-4517,H,517,Gylterud/Austmarka skole,,3,,FFFFFF,000000
+4461-4520,H,520,Magnor skole/Rødkjølen,,3,,FFFFFF,000000
+4461-4521,H,521,Skotterud sentrum/Eidskog u. skole,,3,,FFFFFF,000000
+4461-4522,H,522,Skotterud skole/Holsæterkrysset,,3,,FFFFFF,000000
+4461-4523,H,523,Skotterud skole/Sjøenden,,3,,FFFFFF,000000
+4461-4524,H,524,Skotterud skole/Skotterud sentrum,,3,,FFFFFF,000000
+4461-4526,H,526,Smedtorpet/Dal stasjon,,3,,FFFFFF,000000
+4461-4527,H,527,Skotterud sentrum/Hauga riksgrensen,,3,,FFFFFF,000000
+4461-4528,H,528,Kongsvingerhallen/Skotterud sentrum,,3,,FFFFFF,000000
+4461-4530,H,530,Sagdalskrysset/Skotterud skole,,3,,FFFFFF,000000
+4461-4540,H,540,Helgesen/Kongsvingerhallen,,3,,FFFFFF,000000
+4461-4541,H,541,Langeland skole/Brandval skole,,3,,FFFFFF,000000
+4461-4542,H,542,Vennersberg skole/Overud,,3,,FFFFFF,000000
+4461-4543,H,543,Vennersberg skole/Sigernes,,3,,FFFFFF,000000
+4461-4544,H,544,Langeland skole/Edsberg,,3,,FFFFFF,000000
+4461-4555,H,555,Roverud skole/Nordre Rustad,,3,,FFFFFF,000000
+4461-4556,H,556,Roverud skole fv. 205/Marikollen skole,,3,,FFFFFF,000000
+4461-4557,H,557,Smestadtjernet/Roverud skole,,3,,FFFFFF,000000
+4461-4558,H,558,Roverud skole/Finnskogen montessoriskole,,3,,FFFFFF,000000
+4461-4560,H,560,Brandval skole/Rolstadmoen,,3,,FFFFFF,000000
+4461-4561,H,561,Årbogen/Brandval skole,,3,,FFFFFF,000000
+4461-4562,H,562,Hokåsen/Brandval skole,,3,,FFFFFF,000000
+4461-4565,H,565,Hokåsen/Kongsvinger,,3,,FFFFFF,000000
+4461-4568,H,568,Kjærsagbrua/Øyermoen,,3,,FFFFFF,000000
+4461-4575,H,575,Skotterud sentrum/Morasta,,3,,FFFFFF,000000
+4461-4581,H,581,Kirkenær stasjon/Lintorpet riksgrensen,,3,,FFFFFF,000000
+4461-4610,H,610,Flisa busstasjon/Kongsvinger,,3,,FFFFFF,000000
+4461-4611,H,611,Flisa busstasjon/Sønsterud skole,,3,,FFFFFF,000000
+4461-4620,H,620,Grue skole/Delbekk,,3,,FFFFFF,000000
+4461-4621,H,621,Grue skole/Rismoen,,3,,FFFFFF,000000
+4461-4622,H,622,Grue skole/Namnå skole,,3,,FFFFFF,000000
+4461-4623,H,623,Grue skole/Grue skole,,3,,FFFFFF,000000
+4461-4627,H,627,Grue skole/Bergesida boligfelt,,3,,FFFFFF,000000
+4461-4630,H,630,Åsnes u. skole/Lotteriet,,3,,FFFFFF,000000
+4461-4631,H,631,Åsnes u. skole/Søgård,,3,,FFFFFF,000000
+4461-4632,H,632,Åsnes u. skole/Holm,,3,,FFFFFF,000000
+4461-4634,H,634,Flisa busstasjon/Vermunddammen,,3,,FFFFFF,000000
+4461-4635,H,635,Åsnes u. skole/Arneberg,,3,,FFFFFF,000000
+4461-4636,H,636,Åsnes u. skole/Telle,,3,,FFFFFF,000000
+4461-4637,H,637,Sønsterud/Solør montessoriskole,,3,,FFFFFF,000000
+4461-4640,H,640,Sønsterud skole/Flisa busstasjon,,3,,FFFFFF,000000
+4461-4646,H,646,Jara skole/Åsnes u. skole,,3,,FFFFFF,000000
+4461-4647,H,647,Bonsak/Jara skole,,3,,FFFFFF,000000
+4461-4648,H,648,Kjøpmann Løfsgård/Jara skole,,3,,FFFFFF,000000
+4461-4650,H,650,Våler vg. skole/Kvisler,,3,,FFFFFF,000000
+4461-4651,H,651,Åsnes u. skole/Våler sentrum,,3,,FFFFFF,000000
+4461-4660,H,660,Våler sentrum/Torvfabrikken,,3,,FFFFFF,000000
+4461-4661,H,661,Våler sentrum/Sletta,,3,,FFFFFF,000000
+4461-4662,H,662,Nordhagen skole/Braskereidfoss vest,,3,,FFFFFF,000000
+4461-4701,H,B1,Solbærvegen snuplassen/Elverum torv,,3,,FFFFFF,000000
+4461-4702,H,B2,Slåttmyrbakken/Elverum torv,,3,,FFFFFF,000000
+4461-4708,H,708,Elverum torv/Elverum torv,,3,,FFFFFF,000000
+4461-4709,H,709,Elverum torv/Elverum torv,,3,,FFFFFF,000000
+4461-4710,H,710,Elverum vg. skole/Våler sentrum,,3,,FFFFFF,000000
+4461-4711,H,711,Elverum vg. skole/Jømna,,3,,FFFFFF,000000
+4461-4712,H,712,Elverum skysstasjon/Kirkeby skole Nordskogbygdvn.,,3,,FFFFFF,000000
+4461-4713,H,713,Elverum u. skole/Styggbergskrysset,,3,,FFFFFF,000000
+4461-4714,H,714,Elverum skysstasjon/Sørskogbygda skole,,3,,FFFFFF,000000
+4461-4715,H,715,Skogmuséet/Elverum u. skole,,3,,FFFFFF,000000
+4461-4716,H,716,Solbærvegen snuplassen/Elverum torv,,3,,FFFFFF,000000
+4461-4718,H,718,Elverum skysstasjon/Sørskogbygda skole,,3,,FFFFFF,000000
+4461-4720,H,720,Søbakken skole/Indset gård,,3,,FFFFFF,000000
+4461-4725,H,725,Slåttmyrbakken/Elverum vg. skole,,3,,FFFFFF,000000
+4461-4730,H,730,Hernes skole/Øvergård,,3,,FFFFFF,000000
+4461-4735,H,735,Lillemoen skole/Bronka vegkryss,,3,,FFFFFF,000000
+4461-4740,H,740,Elverum torv/Elverum u. skole,,3,,FFFFFF,000000
+4461-4745,H,745,Løten stasjon/Elverum sykehus,,3,,FFFFFF,000000
+4461-4750,H,750,Osen sentrum/Rena skole,,3,,FFFFFF,000000
+4461-4751,H,751,Trysil busstasjon/Elverum skysstasjon,,3,,FFFFFF,000000
+4461-4752,H,752,Elgå/Engerdal skole,,3,,FFFFFF,000000
+4461-4754,H,754,Ravnkleven/Vestre Trysil skole,,3,,FFFFFF,000000
+4461-4755,H,755,Osen sentrum/Nygård Osdalen,,3,,FFFFFF,000000
+4461-4757,H,757,Snerta/Engerdal skole,,3,,FFFFFF,000000
+4461-4759,H,759,Engerdal skole/Solli,,3,,FFFFFF,000000
+4461-4760,H,760,Strømmen/Engerdal skole,,3,,FFFFFF,000000
+4461-4803,H,803,Tørberget samfunnshus/Innbygda skole,,3,,FFFFFF,000000
+4461-4815,H,815,Sjøenden/Innbygda skole,,3,,FFFFFF,000000
+4461-4830,H,830,Innbygda skole/Skjærberget fv. 208,,3,,FFFFFF,000000
+4461-4853,H,853,Jordet Coop-marked/Eltdalen bom,,3,,FFFFFF,000000
+4461-4854,H,854,Innbygda skole/Bryn,,3,,FFFFFF,000000
+4461-4870,H,870,Strømstad/Trysil vg. skole,,3,,FFFFFF,000000
+4461-4871,H,871,Linnes/Trysilsenteret,,3,,FFFFFF,000000
+4461-4875,H,875,Vestadbakkvegen/Østby,,3,,FFFFFF,000000
+4461-4902,H,902,Rena skysstasjon/Elverum vg. skole,,3,,FFFFFF,000000
+4461-4911,H,911,Rena skysstasjon/Rena skysstasjon,,3,,FFFFFF,000000
+4461-4915,H,915,Snippen/Elverum vg. skole,,3,,FFFFFF,000000
+4461-4951,H,951,Ola Nilsen/Rena skole,,3,,FFFFFF,000000
+4461-4952,H,952,Koppang stasjon/Tynset bussterminal,,3,,FFFFFF,000000
+4461-4953,H,953,Unset/Tynset bussterminal,,3,,FFFFFF,000000
+4461-4954,H,954,Hanstad/Rena skole,,3,,FFFFFF,000000
+4461-4955,H,955,Nedre Brekkvei/Tynset bussterminal,,3,,FFFFFF,000000
+4461-4956,H,956,Sollia handel/Folldal rutebilstasjon,,3,,FFFFFF,000000
+4461-4957,H,957,Svestad/Fagertun skole,,3,,FFFFFF,000000
+4461-4964,H,964,Nybu/Folldal skole,,3,,FFFFFF,000000
+4461-4971,H,971,Tynset bussterminal/Alvdal stasjon,,3,,FFFFFF,000000
+4461-4972,H,972,Nytrøa/Bjørganvegen,,3,,FFFFFF,000000
+4461-4973,H,973,Alvdal stasjon/Alvdal stasjon,,3,,FFFFFF,000000
+4461-4974,H,974,Eggestad/Alvdal stasjon,,3,,FFFFFF,000000
+4461-4975,H,975,Alvdal stasjon/Tynset bussterminal,,3,,FFFFFF,000000
+4461-4976,H,976,Tynset bussterminal/Savalen fjellstue,,3,,FFFFFF,000000
+4461-4977,H,977,Vingelen forbruksforening/Vingelsåskrysset,,3,,FFFFFF,000000
+4461-4978,H,978,Tolga stasjon/Engerdal sentrum,,3,,FFFFFF,000000
+4461-4979,H,979,Tynset bussterminal/Tynsetskolene,,3,,FFFFFF,000000
+4461-4981,H,981,Tynset bussterminal/Røros stasjon,,3,,FFFFFF,000000
+4461-4982,H,982,Lillebakkmoen/Tynsetskolene,,3,,FFFFFF,000000
+4461-4983,H,983,Tynsetskolene/Bubakken,,3,,FFFFFF,000000
+4461-4984,H,984,Tynset bussterminal/Tynset bussterminal,,3,,FFFFFF,000000
+4461-4990,H,990,Tolga stasjon/Tynset bussterminal,,3,,FFFFFF,000000
+4461-4991,H,991,Os stasjon/Sømådal,,3,,FFFFFF,000000
+4461-4992,H,992,Os gamle skole/Os gamle skole,,3,,FFFFFF,000000
+4510-5001,L,1,Lillehammer skysstasjon/Jørstadmoen leir,,3,,FFFFFF,000000
+4510-5002,L,2,Høgskolen i Lillehammer/Søre Ål skole - Skogenhallen,,3,,FFFFFF,000000
+4510-5003,L,3,Pinnikvegen/Ekromskogen,,3,,FFFFFF,000000
+4510-5004,L,4,Høgskolen i Lillehammer/Rødsildrevegen,,3,,FFFFFF,000000
+4510-5005,L,5,Lillehammer skysstasjon/Rødsildrevegen,,3,,FFFFFF,000000
+4510-5006,L,6,Øyresvika/Skurvbrua,,3,,FFFFFF,000000
+4510-5007,L,7,Lillehammer skysstasjon/Nybu,,3,,FFFFFF,000000
+4510-5008,L,8,Skårsetlia bo og servicesenter/Søre Ål bo- og servicesenter,,3,,FFFFFF,000000
+4510-5031,L,31,Åslundmarka/Bjørkebakken,,3,,FFFFFF,000000
+4510-5033,L,33,Holmbo/Øverby,,3,,FFFFFF,000000
+4510-5034,L,34,Bjørnsveen skole/Bjørkebakken,,3,,FFFFFF,000000
+4510-5035,L,35,Gjøvik skysstasjon/Tobru snuplass Odnesvegen,,3,,FFFFFF,000000
+4510-5036,L,36,Øverbymarka/Hjelpemiddelsentralen,,3,,FFFFFF,000000
+4510-5037,L,37,NTNU i Gjøvik/Tranberghallen,,3,,FFFFFF,000000
+4510-5135,L,135,Gjøvik skysstasjon/Fagernes skysstasjon,,3,,FFFFFF,000000
+4510-5136,L,136,Lillehammer skysstasjon/Dokka skysstasjon,,3,,FFFFFF,000000
+4510-5142,L,142,Lillehammer skysstasjon/Otta skysstasjon,,3,,FFFFFF,000000
+4510-5150,L,150,Gjøvik skysstasjon/Gran Tre,,3,,FFFFFF,000000
+4510-5151,L,151,Raufoss stasjon/Høgskolen i Lillehammer,,3,,FFFFFF,000000
+4510-5153,L,153,Dokka skysstasjon/Oslo Bussterminal,,3,,FFFFFF,000000
+4510-5162,L,W162,Lillehammer skysstasjon/Bergen busstasjon,,3,,FFFFFF,000000
+4510-5171,L,171,Hamar skysstasjon/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5200,L,200,Lillehammer skysstasjon/Skåbu,,3,,FFFFFF,000000
+4510-5201,L,201,Lillehammer skysstasjon/Forsetskolene,,3,,FFFFFF,000000
+4510-5210,L,210,Lillehammer skysstasjon/Gausdal Arena,,3,,FFFFFF,000000
+4510-5211,L,211,Lillehammer skysstasjon/Svingvoll Skeisvegen,,3,,FFFFFF,000000
+4510-5212,L,212,Lillehammer skysstasjon/Svingvoll Skeisvegen,,3,,FFFFFF,000000
+4510-5214,L,214,Gausdal Arena/Tretten sentrum Tjønnlykkja,,3,,FFFFFF,000000
+4510-5220,L,220,Skjeggestadstuen/Forsetskolene,,3,,FFFFFF,000000
+4510-5221,L,221,Finnsvea/Mannstad,,3,,FFFFFF,000000
+4510-5222,L,222,Svatsum øvre/Gausdal Arena,,3,,FFFFFF,000000
+4510-5223,L,223,Forsetskolene/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4510-5224,L,224,Engjom skule/Gausdal Arena,,3,,FFFFFF,000000
+4510-5230,L,230,Håvardslia/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4510-5231,L,231,Vingnes/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4510-5232,L,232,Lysgårdsbakkene NTG/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4510-5233,L,233,Lillehammer vg. skole nord Sme/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4510-5234,L,234,Dalsvingen/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4510-5235,L,235,Roterud Krokvang/Åretta skole Hamarvegen,,3,,FFFFFF,000000
+4510-5236,L,236,Lillehammer skysstasjon/Ekromskogen,,3,,FFFFFF,000000
+4510-5240,L,240,Bruvoll/Tingberg,,3,,FFFFFF,000000
+4510-5241,L,241,Myrom/Lillehammer skysstasjon,,3,,FFFFFF,000000
+4510-5242,L,242,Lillehammer skysstasjon/Tretten sentrum Tjønnlykkja,,3,,FFFFFF,000000
+4510-5250,L,250,Øyer u. skole Lundstad/Tretten sentrum Tjønnlykkja,,3,,FFFFFF,000000
+4510-5251,L,251,Øyer u. skole Lundstad/Tretten sentrum Tjønnlykkja,,3,,FFFFFF,000000
+4510-5252,L,252,Tretten sentrum Tjønnlykkja/Hundorp Kommunelokalet,,3,,FFFFFF,000000
+4510-5253,L,253,Tingberg/Tingberg Lerkevegen,,3,,FFFFFF,000000
+4510-5254,L,254,Tretten sentrum Tjønnlykkja/Winge,,3,,FFFFFF,000000
+4510-5255,L,255,Aurvoll skole/Øyer u. skole Lundstad,,3,,FFFFFF,000000
+4510-5260,L,260,Kringsjå skole/Nordseter,,3,,FFFFFF,000000
+4510-5262,L,262,Lillehammer skysstasjon/Mesnalia,,3,,FFFFFF,000000
+4510-5269,L,269,Lillehammer skysstasjon/Menkerud,,3,,FFFFFF,000000
+4510-5301,L,301,Gjøvik skysstasjon/Reinsvoll stasjon,,3,,FFFFFF,000000
+4510-5302,L,302,Gjøvik skysstasjon/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5303,L,303,Gjøvik skysstasjon/Raufoss vg. skole,,3,,FFFFFF,000000
+4510-5304,L,304,Sandli/Vardal u. skole,,3,,FFFFFF,000000
+4510-5305,L,305,Gjøvik vg. skole/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5310,L,310,Skreia/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5315,L,315,Olterud/Lena u. skole Kolbuvegen,,3,,FFFFFF,000000
+4510-5318,L,318,Kolbu skole/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5330,L,330,Gjøvik skysstasjon/Raufoss stasjon,,3,,FFFFFF,000000
+4510-5333,L,333,Eina stasjon/Raufoss vg. skole,,3,,FFFFFF,000000
+4510-5340,L,340,Gjøvik skysstasjon/Skumsjøen,,3,,FFFFFF,000000
+4510-5343,L,343,Gjøvik skysstasjon/Landåsvegen - Østsinnivegen,,3,,FFFFFF,000000
+4510-5344,L,344,Tobru snuplass Odnesvegen/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5345,L,345,Gjøvik skysstasjon/Vardal u. skole,,3,,FFFFFF,000000
+4510-5350,L,350,Gjøvik skysstasjon/Forbrukslaget,,3,,FFFFFF,000000
+4510-5351,L,351,Nettum rampe/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5352,L,352,Nysætra/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5353,L,353,Forbrukslaget/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5354,L,354,Snertingdal skole/Snertingdal skole,,3,,FFFFFF,000000
+4510-5355,L,355,Snertingdal skole/Forbrukslaget,,3,,FFFFFF,000000
+4510-5360,L,360,Bilitt Totenvegen/Lena skysstasjon,,3,,FFFFFF,000000
+4510-5363,L,363,Haugkrysset/Hoffsvangen skole,,3,,FFFFFF,000000
+4510-5364,L,364,Lena skysstasjon/Skreia u. skole,,3,,FFFFFF,000000
+4510-5366,L,366,Gjøvik skysstasjon/Lena u. skole Kolbuvegen,,3,,FFFFFF,000000
+4510-5370,L,370,Fjellhaug/Raufoss vg. skole,,3,,FFFFFF,000000
+4510-5371,L,371,Børsvoll/Kolbu sentrum,,3,,FFFFFF,000000
+4510-5374,L,374,Skreia/Raufoss industripark,,3,,FFFFFF,000000
+4510-5375,L,375,Lund/Bråstad,,3,,FFFFFF,000000
+4510-5376,L,376,Kapp/Lena skysstasjon,,3,,FFFFFF,000000
+4510-5381,L,381,Skjærdalen/Reinsvoll skole,,3,,FFFFFF,000000
+4510-5382,L,382,Elton/Reinsvoll skole,,3,,FFFFFF,000000
+4510-5385,L,385,Sivesintajet/Reinsvoll skole,,3,,FFFFFF,000000
+4510-5388,L,388,Raufoss kjøpesenter/Raufoss kjøpesenter,,3,,FFFFFF,000000
+4510-5391,L,391,Vang/Skyberg,,3,,FFFFFF,000000
+4510-5392,L,392,Vang/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5393,L,393,Redalen/Biri sentrum Snertingdal auto,,3,,FFFFFF,000000
+4510-5397,L,397,Biri sentrum Snertingdal auto/Biri sentrum Snertingdal auto,,3,,FFFFFF,000000
+4510-5398,L,398,Biri sentrum Snertingdal auto/Gjøvik vg. skole,,3,,FFFFFF,000000
+4510-5405,L,405,Harpefoss/Sødorptunet,,3,,FFFFFF,000000
+4510-5407,L,407,Hågå/Sødorp skole,,3,,FFFFFF,000000
+4510-5408,L,408,Massingdalen/Vinstrahallen,,3,,FFFFFF,000000
+4510-5409,L,409,Skåbu/Vinstrahallen,,3,,FFFFFF,000000
+4510-5410,L,410,Vinstrahallen/Sør-Fron u. skole,,3,,FFFFFF,000000
+4510-5411,L,411,Sødorptunet/Sødorptunet,,3,,FFFFFF,000000
+4510-5412,L,412,Fryatun/Sør-Fron u. skole,,3,,FFFFFF,000000
+4510-5413,L,413,Sødorptunet/Brynsbakken,,3,,FFFFFF,000000
+4510-5414,L,414,Sødorptunet/Ottahallen,,3,,FFFFFF,000000
+4510-5419,L,419,Kilekrysset Kilevegen/Ringebu skysstasjon,,3,,FFFFFF,000000
+4510-5420,L,420,Nordrum/Ringebu skysstasjon,,3,,FFFFFF,000000
+4510-5421,L,421,Dalen/Ringebu skysstasjon,,3,,FFFFFF,000000
+4510-5422,L,422,Pålsrud/Fåvang skole,,3,,FFFFFF,000000
+4510-5423,L,423,Ringebu skysstasjon/Kilgarden,,3,,FFFFFF,000000
+4510-5424,L,424,Ringebu skysstasjon/Tretten sentrum Tjønnlykkja,,3,,FFFFFF,000000
+4510-5501,L,501,Otta skysstasjon/Bismo,,3,,FFFFFF,000000
+4510-5502,L,502,Otta skysstasjon/Otta skysstasjon,,3,,FFFFFF,000000
+4510-5504,L,504,Marlo skule/Staurust,,3,,FFFFFF,000000
+4510-5511,L,511,Lom/Kvandalsvoll,,3,,FFFFFF,000000
+4510-5512,L,512,Lom/Byre,,3,,FFFFFF,000000
+4510-5513,L,513,Lom/Grøna,,3,,FFFFFF,000000
+4510-5514,L,514,Skjåk u. skule/Lom,,3,,FFFFFF,000000
+4510-5521,L,521,Vågåmo rutebilstasjon/Randsverk sag,,3,,FFFFFF,000000
+4510-5522,L,522,Vågåmo rutebilstasjon/Vågå u. skule,,3,,FFFFFF,000000
+4510-5524,L,524,Vågåmo rutebilstasjon/Vågåmo rutebilstasjon,,3,,FFFFFF,000000
+4510-5525,L,525,Vågåmo rutebilstasjon/Vågå u. skule,,3,,FFFFFF,000000
+4510-5526,L,526,Vågåmo rutebilstasjon/Hanslin,,3,,FFFFFF,000000
+4510-5527,L,527,Vågåmo rutebilstasjon/Nerlirampa,,3,,FFFFFF,000000
+4510-5530,L,530,Otta skysstasjon/Otta skysstasjon,,3,,FFFFFF,000000
+4510-5531,L,531,Bjølstadmo/Otta skysstasjon,,3,,FFFFFF,000000
+4510-5533,L,533,Dalelie/Ottahallen,,3,,FFFFFF,000000
+4510-5534,L,534,Otta skysstasjon/Nord-Sel kirke,,3,,FFFFFF,000000
+4510-5535,L,535,Daleflata/Otta skysstasjon,,3,,FFFFFF,000000
+4510-5536,L,536,Otta skysstasjon/Tolstadåsen,,3,,FFFFFF,000000
+4510-5539,L,539,Otta skysstasjon/Vinstrahallen,,3,,FFFFFF,000000
+4510-5541,L,541,Bjølstadmo/Bjølstadmo,,3,,FFFFFF,000000
+4510-5542,L,542,Bjølstadmo/Heidal skule,,3,,FFFFFF,000000
+4510-5557,L,557,Dovre skole/Dovreskogen,,3,,FFFFFF,000000
+4510-5573,L,573,Skjåk u. skule/Dønfoss rv15,,3,,FFFFFF,000000
+4510-5580,L,580,Dombås skyssterminal/Otta skysstasjon,,3,,FFFFFF,000000
+4510-5601,L,601,Spikarmoen/AMFI Valdres,,3,,FFFFFF,000000
+4510-5602,L,602,Fagernes skysstasjon/Beitostølen,,3,,FFFFFF,000000
+4510-5603,L,603,Fagernes skysstasjon/Tyinkrysset,,3,,FFFFFF,000000
+4510-5604,L,604,Fagernes skysstasjon/Gol stasjon,,3,,FFFFFF,000000
+4510-5605,L,605,Fossen camping/Nord-Aurdal skole,,3,,FFFFFF,000000
+4510-5606,L,606,Valdres vg. skole/Mjøsvang,,3,,FFFFFF,000000
+4510-5607,L,607,Fagernes skysstasjon/Sinderstølen,,3,,FFFFFF,000000
+4510-5608,L,608,Lagrud/Slidre skule,,3,,FFFFFF,000000
+4510-5610,L,610,Valdres vg. skole/Åstad,,3,,FFFFFF,000000
+4510-5611,L,611,Valdres vg. skole/Bagn,,3,,FFFFFF,000000
+4510-5612,L,612,Fagernes skysstasjon/Ulnes Montessoriskule,,3,,FFFFFF,000000
+4510-5635,L,635,Fagernes skysstasjon/Moane,,3,,FFFFFF,000000
+4510-5651,L,651,Etnedal rutebilstasjon/Valdres vg. skole,,3,,FFFFFF,000000
+4510-5655,L,655,Sørum/Etnedal skule,,3,,FFFFFF,000000
+4510-5656,L,656,Bjørgo/Etnedal skule,,3,,FFFFFF,000000
+4510-5657,L,657,Stavedal/Bagn,,3,,FFFFFF,000000
+4510-5658,L,658,Bagn/Høljerast Etnedalsvegen,,3,,FFFFFF,000000
+4510-5659,L,659,Høneren/Valdres vg. skole,,3,,FFFFFF,000000
+4510-5661,L,231,Pålsodden/Hedalen barne- og u. skole,,3,,FFFFFF,000000
+4510-5701,L,701,Toso skole/Hønefoss sentrum,,3,,FFFFFF,000000
+4510-5703,L,703,Horn ferjekai/Brandbu skysstasjon,,3,,FFFFFF,000000
+4510-5704,L,704,Brandbu skysstasjon/Hennung,,3,,FFFFFF,000000
+4510-5705,L,705,Brandbu skysstasjon/Jevnaker rutebilstasjon,,3,,FFFFFF,000000
+4510-5707,L,707,Hadeland vg. skole/Brandbu skysstasjon,,3,,FFFFFF,000000
+4510-5709,L,709,Sanne skole/Mellerud,,3,,FFFFFF,000000
+4510-5710,L,710,Gran stasjon/Gran stasjon,,3,,FFFFFF,000000
+4510-5711,L,711,Lunner barneskole/SÅS idrettsplass,,3,,FFFFFF,000000
+4510-5715,L,715,Lunner stasjon/Grua skole,,3,,FFFFFF,000000
+4510-5716,L,716,Hadeland vg. skole/Jevnaker rutebilstasjon,,3,,FFFFFF,000000
+4510-5717,L,717,Gran stasjon/Bergermoen,,3,,FFFFFF,000000
+4510-5719,L,719,Storgrunnvika/Bjoneroa skole,,3,,FFFFFF,000000
+4510-5720,L,720,Fluberg bru vest/Dokka skysstasjon,,3,,FFFFFF,000000
+4510-5722,L,722,Amundrud/Sandbekk,,3,,FFFFFF,000000
+4510-5723,L,723,Horn ferjekai/Tangen ferjekai,,3,,FFFFFF,000000
+4510-5747,L,747,Lunner rådhus-Sand/Skolelia Kiwi,,3,,FFFFFF,000000
+4510-5748,L,748,Gran rådhus/Skolelia Kiwi,,3,,FFFFFF,000000
+4510-5800,L,800,Hov rutebilstasjon/Gjøvik skysstasjon,,3,,FFFFFF,000000
+4510-5801,L,801,Holmen/Bondlid Dokka,,3,,FFFFFF,000000
+4510-5803,L,803,Horn ferjekai/Hov rutebilstasjon,,3,,FFFFFF,000000
+4510-5805,L,805,Gry/Hov rutebilstasjon,,3,,FFFFFF,000000
+4510-5806,L,806,Hov rutebilstasjon/Fluberg bru vest,,3,,FFFFFF,000000
+4510-5815,L,815,Dokka skysstasjon/Sandmoen,,3,,FFFFFF,000000
+4510-5820,L,820,Bondlid Dokka/Grøterud Snertingdalsvegen,,3,,FFFFFF,000000
+4510-5821,L,821,Torpa barne- og u. skole/Hugulia,,3,,FFFFFF,000000
+4510-5822,L,822,Dokka skysstasjon/Dokka skysstasjon,,3,,FFFFFF,000000
+4510-5823,L,823,Dokka skysstasjon/Torpa barne- og u. skole,,3,,FFFFFF,000000
+4510-5824,L,824,Vinjar/Torpa barne- og u. skole,,3,,FFFFFF,000000
+4510-5825,L,825,Skinnerlitoppen/Dokka skysstasjon,,3,,FFFFFF,000000
+4510-5851,L,851,Høljerast Etnedalsvegen/Dokka skysstasjon,,3,,FFFFFF,000000
+4511-5001,L,1,Lillehammer skysstasjon/Jørstadmoen,,3,,FFFFFF,000000
+4511-5002,L,2,Høgskolen i Lillehammer/Søre Ål,,3,,FFFFFF,000000
+4511-5003,L,3,Pinnikvegen/Ekromskogen,,3,,FFFFFF,000000
+4511-5004,L,4,Høgskolen i Lillehammer/Vårsetergrenda,,3,,FFFFFF,000000
+4511-5005,L,5,Lillehammer skysstasjon/Røyslimoen via Vårsetergrenda,,3,,FFFFFF,000000
+4511-5006,L,6,Øyresvika/Skihytta - Skurvbrua,,3,,FFFFFF,000000
+4511-5007,L,7,Lillehammer skysstasjon/Nybu,,3,,FFFFFF,000000
+4511-5008,L,8,Skårsetlia bo og servicesenter/Søre Ål bo- og servicesenter,,3,,FFFFFF,000000
+4511-5031,L,31,Åslundmarka/Vindingstad - Kopperud,,3,,FFFFFF,000000
+4511-5033,L,33,Holmbo/Øverby - Tranberg,,3,,FFFFFF,000000
+4511-5034,L,34,Bjørnsveen skole/Vindingstad - Kopperud,,3,,FFFFFF,000000
+4511-5035,L,35,Gjøvik skysstasjon/Tobru,,3,,FFFFFF,000000
+4511-5036,L,36,Øverbymarka/Bondelia,,3,,FFFFFF,000000
+4511-5037,L,37,NTNU i Gjøvik/Sykehuset - Nordbyen,,3,,FFFFFF,000000
+4511-5135,L,135,Gjøvik skysstasjon/Fagernes,,3,,FFFFFF,000000
+4511-5136,L,136,Lillehammer skysstasjon/Dokka,,3,,FFFFFF,000000
+4511-5142,L,142,Lillehammer skysstasjon/Otta,,3,,FFFFFF,000000
+4511-5150,L,150,Gjøvik skysstasjon/Gran Tre,,3,,FFFFFF,000000
+4511-5151,L,151,Raufoss stasjon/Lillehammer - Storhove Ekspress,,3,,FFFFFF,000000
+4511-5153,L,153,Dokka skysstasjon/Oslo Bussterminal,,3,,FFFFFF,000000
+4511-5162,L,W162,Lillehammer skysstasjon/Bergen,,3,,FFFFFF,000000
+4511-5171,L,171,Hamar skysstasjon/Gjøvik ,,3,,FFFFFF,000000
+4511-5200,L,200,Gausdal Arena/Forsetskolene,,3,,FFFFFF,000000
+4511-5201,L,201,Lillehammer skysstasjon/Forset via Pålstuen,,3,,FFFFFF,000000
+4511-5210,L,210,Lillehammer skysstasjon/Gausdal Arena via Tråsetstranda,,3,,FFFFFF,000000
+4511-5211,L,211,Lillehammer skysstasjon/Svingvoll,,3,,FFFFFF,000000
+4511-5212,L,212,Lillehammer skysstasjon/Svingvoll via Øverbygda,,3,,FFFFFF,000000
+4511-5214,L,214,Gausdal Arena/Tretten,,3,,FFFFFF,000000
+4511-5220,L,220,Skjeggestadstuen/Forsetskolene,,3,,FFFFFF,000000
+4511-5221,L,221,Finnsvea/Follebu skole,,3,,FFFFFF,000000
+4511-5222,L,222,Svatsum øvre/Gausdal Arena,,3,,FFFFFF,000000
+4511-5223,L,223,Forsetskolene/Lillehammer via Auggedal,,3,,FFFFFF,000000
+4511-5224,L,224,Engjom skule/Gausdal Arena,,3,,FFFFFF,000000
+4511-5230,L,230,Håvardslia/Lillehammer,,3,,FFFFFF,000000
+4511-5231,L,231,Vingnes/Vingar skole - Lillehammer,,3,,FFFFFF,000000
+4511-5232,L,232,Lysgårdsbakkene NTG/Lillehammer,,3,,FFFFFF,000000
+4511-5233,L,233,Lillehammer vg. skole nord Sme/Lillehammer,,3,,FFFFFF,000000
+4511-5234,L,234,Dalsvingen/Buvollen sk - Jørstadmoen sk,,3,,FFFFFF,000000
+4511-5235,L,235,Roterud Krokvang/Åretta skole,,3,,FFFFFF,000000
+4511-5236,L,236,Lillehammer skysstasjon/Ekromskogen via Sykehuset,,3,,FFFFFF,000000
+4511-5240,L,240,Bruvoll/Tingberg via Bjørge,,3,,FFFFFF,000000
+4511-5241,L,241,Myrom/Lillehammer,,3,,FFFFFF,000000
+4511-5242,L,242,Lillehammer skysstasjon/Hafjell - Tretten,,3,,FFFFFF,000000
+4511-5250,L,250,Øyer u. skole Lundstad/Tretten,,3,,FFFFFF,000000
+4511-5251,L,251,Øyer u. skole Lundstad/Kvam - Tretten,,3,,FFFFFF,000000
+4511-5252,L,252,Tretten sentrum Tjønnlykkja/Hundorp,,3,,FFFFFF,000000
+4511-5253,L,253,Tingberg/Tingberg - Øyer,,3,,FFFFFF,000000
+4511-5254,L,254,Tretten sentrum Tjønnlykkja/Winge,,3,,FFFFFF,000000
+4511-5255,L,255,Aurvoll skole/Solvang skole - Øyer usk,,3,,FFFFFF,000000
+4511-5260,L,260,Lillehammer skysstasjon/Nordseter,,3,,FFFFFF,000000
+4511-5262,L,262,Lillehammer skysstasjon/Mesnali,,3,,FFFFFF,000000
+4511-5269,L,269,Lillehammer skysstasjon/Bestilles. Menkerud,,3,,FFFFFF,000000
+4511-5301,L,301,Gjøvik skysstasjon/Ringrute 1,,3,,FFFFFF,000000
+4511-5302,L,302,Gjøvik skysstasjon/Ringrute 2,,3,,FFFFFF,000000
+4511-5303,L,303,Gjøvik skysstasjon/Raufoss vgs,,3,,FFFFFF,000000
+4511-5304,L,304,Sandli/Vardal ungdomsskole,,3,,FFFFFF,000000
+4511-5305,L,305,Gjøvik vg. skole/Skysstasjonen,,3,,FFFFFF,000000
+4511-5310,L,310,Skreia u. skole/Kapp - Gjøvik,,3,,FFFFFF,000000
+4511-5315,L,315,Olterud/Lena ungdomsskole,,3,,FFFFFF,000000
+4511-5318,L,318,Kolbu skole/Åsmarka - Gjøvik,,3,,FFFFFF,000000
+4511-5330,L,330,Gjøvik skysstasjon/Raufoss,,3,,FFFFFF,000000
+4511-5333,L,333,Eina stasjon/Åsmarka - Raufoss vgs,,3,,FFFFFF,000000
+4511-5340,L,340,Gjøvik skysstasjon/Skumsjøen,,3,,FFFFFF,000000
+4511-5343,L,343,Gjøvik skysstasjon/Landåsen,,3,,FFFFFF,000000
+4511-5344,L,344,Tobru snuplass Odnesvegen/Skysstasjonen,,3,,FFFFFF,000000
+4511-5345,L,345,Gjøvik skysstasjon/Vardal ungdomsskole,,3,,FFFFFF,000000
+4511-5350,L,350,Gjøvik skysstasjon/Snertingdalen,,3,,FFFFFF,000000
+4511-5351,L,351,Nettum rampe/Gjøvik,,3,,FFFFFF,000000
+4511-5352,L,352,Nysætra/Gjøvik,,3,,FFFFFF,000000
+4511-5353,L,353,Forbrukslaget/Gjøvik,,3,,FFFFFF,000000
+4511-5354,L,354,Snertingdal skole/Snertingdal skole,,3,,FFFFFF,000000
+4511-5355,L,355,Snertingdal skole/Tranalia - Forbrukslaget,,3,,FFFFFF,000000
+4511-5360,L,360,Bilitt Totenvegen/Kapp - Haugskrysset,,3,,FFFFFF,000000
+4511-5363,L,363,Haugkrysset/Lena usk - Hoffsvangen sk,,3,,FFFFFF,000000
+4511-5364,L,364,Lena skysstasjon/Skreia ungdomsskole,,3,,FFFFFF,000000
+4511-5366,L,366,Gjøvik skysstasjon/Kapp - Lena ungdomsskole,,3,,FFFFFF,000000
+4511-5370,L,370,Fjellhaug/Raufoss vgs,,3,,FFFFFF,000000
+4511-5371,L,371,Børsvoll/Tandseter - Kolbu,,3,,FFFFFF,000000
+4511-5374,L,374,Skreia/Kapp-Åsmarka-Raufoss industri,,3,,FFFFFF,000000
+4511-5375,L,375,Lund/Bråstad,,3,,FFFFFF,000000
+4511-5376,L,376,Kapp/Raufoss - Åsmarka - Lena,,3,,FFFFFF,000000
+4511-5381,L,381,Skjærdalen/Reinsvoll skole,,3,,FFFFFF,000000
+4511-5382,L,382,Elton/Reinsvoll skole,,3,,FFFFFF,000000
+4511-5385,L,385,Sivesintajet/Reinsvoll skole,,3,,FFFFFF,000000
+4511-5388,L,388,Raufoss kjøpesenter/Grimås - sentrum,,3,,FFFFFF,000000
+4511-5391,L,391,Vang/Skyberg,,3,,FFFFFF,000000
+4511-5392,L,392,Vang/Stokke - Gjøvik,,3,,FFFFFF,000000
+4511-5393,L,393,Redalen/Biri,,3,,FFFFFF,000000
+4511-5397,L,397,Biri sentrum Snertingdal auto/Biri usk - Skrinnhagen sk,,3,,FFFFFF,000000
+4511-5398,L,398,Biri sentrum Snertingdal auto/Gjøvik vgs,,3,,FFFFFF,000000
+4511-5405,L,405,Harpefoss/Sødorptunet,,3,,FFFFFF,000000
+4511-5407,L,407,Hågå/Sødorp skole,,3,,FFFFFF,000000
+4511-5408,L,408,Massingdalen/Vinstrahallen,,3,,FFFFFF,000000
+4511-5409,L,409,Skåbu/Vinstra skysstasjon,,3,,FFFFFF,000000
+4511-5410,L,410,Vinstrahallen/Sør-Fron ungdomsskole,,3,,FFFFFF,000000
+4511-5411,L,411,Sødorptunet/Sødorptunet,,3,,FFFFFF,000000
+4511-5412,L,412,Fryatun/Midtbygda sk - Sør-Fron usk,,3,,FFFFFF,000000
+4511-5413,L,413,Sødorptunet/Brynsbakken,,3,,FFFFFF,000000
+4511-5414,L,414,Sødorptunet/Ottahallen,,3,,FFFFFF,000000
+4511-5419,L,419,Kilekrysset Kilevegen/Kvarvet - Ringebu,,3,,FFFFFF,000000
+4511-5420,L,420,Nordrum/Ringebu skysstasjon,,3,,FFFFFF,000000
+4511-5421,L,421,Dalen/Ringebu skysstasjon,,3,,FFFFFF,000000
+4511-5422,L,422,Pålsrud/Fåvang skole,,3,,FFFFFF,000000
+4511-5423,L,423,Ringebu skysstasjon/Kilgarden,,3,,FFFFFF,000000
+4511-5424,L,424,Ringebu skysstasjon/Tretten bru,,3,,FFFFFF,000000
+4511-5501,L,501,Otta skysstasjon/Bismo,,3,,FFFFFF,000000
+4511-5502,L,502,Otta skysstasjon/Rustmo - Lalm - Otta,,3,,FFFFFF,000000
+4511-5504,L,504,Marlo skule/Staurust,,3,,FFFFFF,000000
+4511-5511,L,511,Lom/Liasanden,,3,,FFFFFF,000000
+4511-5512,L,512,Lom/Garmo skule - Byre,,3,,FFFFFF,000000
+4511-5513,L,513,Lom/Grøna,,3,,FFFFFF,000000
+4511-5514,L,514,Skjåk u. skule/Lom,,3,,FFFFFF,000000
+4511-5521,L,521,Vågåmo rutebilstasjon/Randsverk sag,,3,,FFFFFF,000000
+4511-5522,L,522,Vågåmo rutebilstasjon/Skogbygda - Vågåmo,,3,,FFFFFF,000000
+4511-5524,L,524,Vågåmo rutebilstasjon/Storviksroa - Vågåmo,,3,,FFFFFF,000000
+4511-5525,L,525,Vågåmo rutebilstasjon/Kvarberg - Grev - Vågåmo,,3,,FFFFFF,000000
+4511-5526,L,526,Vågåmo rutebilstasjon/Hanslin,,3,,FFFFFF,000000
+4511-5527,L,527,Vågåmo rutebilstasjon/Nerlirampa,,3,,FFFFFF,000000
+4511-5530,L,530,Otta skysstasjon/Bredi - Otta,,3,,FFFFFF,000000
+4511-5531,L,531,Bjølstadmo/Otta,,3,,FFFFFF,000000
+4511-5533,L,533,Dalelie/Ottahallen,,3,,FFFFFF,000000
+4511-5534,L,534,Otta skysstasjon/Nord-Sel kirke,,3,,FFFFFF,000000
+4511-5535,L,535,Daleflata/Otta,,3,,FFFFFF,000000
+4511-5536,L,536,Otta skysstasjon/Haugstulen,,3,,FFFFFF,000000
+4511-5539,L,539,Otta skysstasjon/Vinstrahallen,,3,,FFFFFF,000000
+4511-5541,L,541,Bjølstadmo/Sæther - Øyi - Bjølstadmo,,3,,FFFFFF,000000
+4511-5542,L,542,Bjølstadmo/Heidal skule,,3,,FFFFFF,000000
+4511-5557,L,557,Dovre skole/Solsida-Rostbakken-Dovreskogen,,3,,FFFFFF,000000
+4511-5573,L,573,Skjåk u. skule/Nordberg skule - Dønfoss,,3,,FFFFFF,000000
+4511-5580,L,580,Dombås skyssterminal/Otta skysstasjon,,3,,FFFFFF,000000
+4511-5601,L,601,Spikarmoen/AMFI Valdres,,3,,FFFFFF,000000
+4511-5602,L,602,Fagernes skysstasjon/Beitostølen,,3,,FFFFFF,000000
+4511-5603,L,603,Fagernes skysstasjon/Tyinkrysset,,3,,FFFFFF,000000
+4511-5604,L,604,Fagernes skysstasjon/Gol stasjon,,3,,FFFFFF,000000
+4511-5605,L,605,Fossen camping/Nord-Aurdal skole,,3,,FFFFFF,000000
+4511-5606,L,606,Valdres vg. skole/Mjøsvang,,3,,FFFFFF,000000
+4511-5607,L,607,Fagernes skysstasjon/Sinderstølen,,3,,FFFFFF,000000
+4511-5608,L,608,Lagrud/Slidre skule,,3,,FFFFFF,000000
+4511-5610,L,610,Valdres vg. skole/Ryfoss,,3,,FFFFFF,000000
+4511-5611,L,611,Valdres vg. skole/Bagn,,3,,FFFFFF,000000
+4511-5612,L,612,Fagernes skysstasjon/Ulnes Montessoriskole,,3,,FFFFFF,000000
+4511-5635,L,635,Fagernes skysstasjon/Moane,,3,,FFFFFF,000000
+4511-5651,L,651,Etnedal rutebilstasjon/Valdres vgs,,3,,FFFFFF,000000
+4511-5655,L,655,Sørum/Etnedal sentralskule,,3,,FFFFFF,000000
+4511-5656,L,656,Bjørgo/Etnedal skule,,3,,FFFFFF,000000
+4511-5657,L,657,Stavedal/Bagn,,3,,FFFFFF,000000
+4511-5658,L,658,Bagn/Høljerast øst,,3,,FFFFFF,000000
+4511-5659,L,659,Høneren/Valdres vgs,,3,,FFFFFF,000000
+4511-5661,L,231,Pålsodden/Åsli,,3,,FFFFFF,000000
+4511-5701,L,701,Toso skole/Hønefoss,,3,,FFFFFF,000000
+4511-5703,L,703,Horn ferjekai/Brandbu,,3,,FFFFFF,000000
+4511-5704,L,704,Brandbu u. skole/Hennung,,3,,FFFFFF,000000
+4511-5705,L,705,Brandbu skysstasjon/Jevnaker rutebilstasjon,,3,,FFFFFF,000000
+4511-5707,L,707,Gran rådhus/Brandbu skysstasjon,,3,,FFFFFF,000000
+4511-5709,L,709,Sanne skole/Walstad - Mellerud,,3,,FFFFFF,000000
+4511-5710,L,710,Gran stasjon/Gran stasjon,,3,,FFFFFF,000000
+4511-5711,L,711,Lunner barneskole/SÅS idrettsplass,,3,,FFFFFF,000000
+4511-5715,L,715,Lunner stasjon/Grua skole,,3,,FFFFFF,000000
+4511-5716,L,716,Hadeland vg. skole/Jevnaker rutebilstasjon,,3,,FFFFFF,000000
+4511-5717,L,717,Gran stasjon/Bergermoen,,3,,FFFFFF,000000
+4511-5719,L,719,Storgrunnvika/Bjoneroa skole,,3,,FFFFFF,000000
+4511-5720,L,720,Fluberg bru vest/Dokka,,3,,FFFFFF,000000
+4511-5722,L,722,Amundrud/Brandbu ungdomsskole,,3,,FFFFFF,000000
+4511-5723,L,723,Horn ferjekai/Tangen,,3,,FFFFFF,000000
+4511-5747,L,747,Lunner rådhus-Sand/Gran stasjon,,3,,FFFFFF,000000
+4511-5748,L,748,Gran rådhus/Skolelia Kiwi,,3,,FFFFFF,000000
+4511-5800,L,800,Hov rutebilstasjon/Gjøvik,,3,,FFFFFF,000000
+4511-5801,L,801,Holmen/Dokka Bondlid,,3,,FFFFFF,000000
+4511-5803,L,803,Horn ferjekai/Hov,,3,,FFFFFF,000000
+4511-5805,L,805,Gry/Fryal skole,,3,,FFFFFF,000000
+4511-5806,L,806,Hov rutebilstasjon/Fluberg bru,,3,,FFFFFF,000000
+4511-5815,L,815,Dokka skysstasjon/Sandmoen,,3,,FFFFFF,000000
+4511-5820,L,820,Bondlid Dokka/Grøterud,,3,,FFFFFF,000000
+4511-5821,L,821,Torpa barne- og u. skole/Hugulia,,3,,FFFFFF,000000
+4511-5822,L,822,Dokka skysstasjon/Vest Torpa - Dokka,,3,,FFFFFF,000000
+4511-5823,L,823,Dokka skysstasjon/Torpa barne- og ungdomsskole,,3,,FFFFFF,000000
+4511-5824,L,824,Vinjar/Torpa barne- og ungdomsskole,,3,,FFFFFF,000000
+4511-5825,L,825,Skinnerlitoppen/Dokka,,3,,FFFFFF,000000
+4511-5851,L,851,Høljerast Etnedalsvegen/Dokka skysstasjon,,3,,FFFFFF,000000
+4512-5001,L,1,Lillehammer skysstasjon/Jørstadmoen,,3,,FFFFFF,000000
+4512-5002,L,2,Høgskolen i Lillehammer/Søre Ål,,3,,FFFFFF,000000
+4512-5003,L,3,Pinnikvegen/Ekromskogen,,3,,FFFFFF,000000
+4512-5004,L,4,Høgskolen i Lillehammer/Vårsetergrenda,,3,,FFFFFF,000000
+4512-5005,L,5,Lillehammer skysstasjon/Røyslimoen via Vårsetergrenda,,3,,FFFFFF,000000
+4512-5006,L,6,Øyresvika/Skihytta - Skurvbrua,,3,,FFFFFF,000000
+4512-5007,L,7,Lillehammer skysstasjon/Nybu,,3,,FFFFFF,000000
+4512-5008,L,8,Skårsetlia bo og servicesenter/Søre Ål bo- og servicesenter,,3,,FFFFFF,000000
+4512-5031,L,31,Åslundmarka/Vindingstad - Kopperud,,3,,FFFFFF,000000
+4512-5033,L,33,Holmbo/Øverby - Tranberg,,3,,FFFFFF,000000
+4512-5034,L,34,Bjørnsveen skole/Vindingstad - Kopperud,,3,,FFFFFF,000000
+4512-5035,L,35,Gjøvik skysstasjon/Tobru,,3,,FFFFFF,000000
+4512-5036,L,36,Øverbymarka/Bondelia,,3,,FFFFFF,000000
+4512-5037,L,37,NTNU i Gjøvik/Sykehuset - Nordbyen,,3,,FFFFFF,000000
+4512-5135,L,135,Gjøvik skysstasjon/Fagernes,,3,,FFFFFF,000000
+4512-5136,L,136,Lillehammer skysstasjon/Dokka,,3,,FFFFFF,000000
+4512-5142,L,142,Lillehammer skysstasjon/Otta,,3,,FFFFFF,000000
+4512-5150,L,150,Gjøvik skysstasjon/Gran Tre,,3,,FFFFFF,000000
+4512-5151,L,151,Raufoss stasjon/Lillehammer - Storhove Ekspress,,3,,FFFFFF,000000
+4512-5153,L,153,Dokka skysstasjon/Oslo Bussterminal,,3,,FFFFFF,000000
+4512-5162,L,W162,Lillehammer skysstasjon/Bergen,,3,,FFFFFF,000000
+4512-5171,L,171,Hamar skysstasjon/Gjøvik ,,3,,FFFFFF,000000
+4512-5200,L,200,Lillehammer skysstasjon/Skåbu,,3,,FFFFFF,000000
+4512-5201,L,201,Lillehammer skysstasjon/Forset via Pålstuen,,3,,FFFFFF,000000
+4512-5210,L,210,Lillehammer skysstasjon/Gausdal Arena via Tråsetstranda,,3,,FFFFFF,000000
+4512-5211,L,211,Lillehammer skysstasjon/Svingvoll,,3,,FFFFFF,000000
+4512-5212,L,212,Lillehammer skysstasjon/Svingvoll via Øverbygda,,3,,FFFFFF,000000
+4512-5214,L,214,Gausdal Arena/Tretten,,3,,FFFFFF,000000
+4512-5220,L,220,Skjeggestadstuen/Forsetskolene,,3,,FFFFFF,000000
+4512-5221,L,221,Finnsvea/Follebu skole,,3,,FFFFFF,000000
+4512-5222,L,222,Svatsum øvre/Gausdal Arena,,3,,FFFFFF,000000
+4512-5223,L,223,Forsetskolene/Lillehammer via Auggedal,,3,,FFFFFF,000000
+4512-5224,L,224,Engjom skule/Gausdal Arena,,3,,FFFFFF,000000
+4512-5230,L,230,Håvardslia/Lillehammer,,3,,FFFFFF,000000
+4512-5231,L,231,Vingnes/Vingar skole - Lillehammer,,3,,FFFFFF,000000
+4512-5232,L,232,Lysgårdsbakkene NTG/Lillehammer,,3,,FFFFFF,000000
+4512-5233,L,233,Lillehammer vg. skole nord Sme/Lillehammer,,3,,FFFFFF,000000
+4512-5234,L,234,Dalsvingen/Buvollen sk - Jørstadmoen sk,,3,,FFFFFF,000000
+4512-5235,L,235,Roterud Krokvang/Åretta skole,,3,,FFFFFF,000000
+4512-5236,L,236,Lillehammer skysstasjon/Ekromskogen via Sykehuset,,3,,FFFFFF,000000
+4512-5240,L,240,Bruvoll/Tingberg via Bjørge,,3,,FFFFFF,000000
+4512-5241,L,241,Myrom/Lillehammer,,3,,FFFFFF,000000
+4512-5242,L,242,Lillehammer skysstasjon/Hafjell - Tretten,,3,,FFFFFF,000000
+4512-5250,L,250,Øyer u. skole Lundstad/Tretten,,3,,FFFFFF,000000
+4512-5251,L,251,Øyer u. skole Lundstad/Kvam - Tretten,,3,,FFFFFF,000000
+4512-5252,L,252,Tretten sentrum Tjønnlykkja/Hundorp,,3,,FFFFFF,000000
+4512-5253,L,253,Tingberg/Tingberg - Øyer,,3,,FFFFFF,000000
+4512-5254,L,254,Tretten sentrum Tjønnlykkja/Winge,,3,,FFFFFF,000000
+4512-5255,L,255,Aurvoll skole/Solvang skole - Øyer usk,,3,,FFFFFF,000000
+4512-5260,L,260,Lillehammer skysstasjon/Nordseter,,3,,FFFFFF,000000
+4512-5262,L,262,Lillehammer skysstasjon/Sjusjøen,,3,,FFFFFF,000000
+4512-5269,L,269,Lillehammer skysstasjon/Bestilles. Menkerud,,3,,FFFFFF,000000
+4512-5301,L,301,Gjøvik skysstasjon/Ringrute 1,,3,,FFFFFF,000000
+4512-5302,L,302,Gjøvik skysstasjon/Ringrute 2,,3,,FFFFFF,000000
+4512-5303,L,303,Gjøvik skysstasjon/Raufoss vgs,,3,,FFFFFF,000000
+4512-5304,L,304,Sandli/Vardal ungdomsskole,,3,,FFFFFF,000000
+4512-5305,L,305,Gjøvik vg. skole/Skysstasjonen,,3,,FFFFFF,000000
+4512-5310,L,310,Skreia/Kapp - Gjøvik,,3,,FFFFFF,000000
+4512-5315,L,315,Skreia/Lena ungdomsskole,,3,,FFFFFF,000000
+4512-5318,L,318,Kolbu skole/Åsmarka - Gjøvik,,3,,FFFFFF,000000
+4512-5330,L,330,Gjøvik skysstasjon/Raufoss,,3,,FFFFFF,000000
+4512-5333,L,333,Eina stasjon/Åsmarka - Raufoss vgs,,3,,FFFFFF,000000
+4512-5340,L,340,Gjøvik skysstasjon/Skumsjøen,,3,,FFFFFF,000000
+4512-5343,L,343,Gjøvik skysstasjon/Landåsen,,3,,FFFFFF,000000
+4512-5344,L,344,Tobru snuplass Odnesvegen/Skysstasjonen,,3,,FFFFFF,000000
+4512-5345,L,345,Gjøvik skysstasjon/Vardal ungdomsskole,,3,,FFFFFF,000000
+4512-5350,L,350,Gjøvik skysstasjon/Snertingdalen,,3,,FFFFFF,000000
+4512-5351,L,351,Nettum rampe/Gjøvik,,3,,FFFFFF,000000
+4512-5352,L,352,Nysætra/Gjøvik,,3,,FFFFFF,000000
+4512-5353,L,353,Forbrukslaget/Gjøvik,,3,,FFFFFF,000000
+4512-5354,L,354,Snertingdal skole/Snertingdal skole,,3,,FFFFFF,000000
+4512-5355,L,355,Snertingdal skole/Tranalia - Forbrukslaget,,3,,FFFFFF,000000
+4512-5360,L,360,Bilitt Totenvegen/Kapp - Haugskrysset,,3,,FFFFFF,000000
+4512-5363,L,363,Haugkrysset/Lena usk - Hoffsvangen sk,,3,,FFFFFF,000000
+4512-5364,L,364,Lena skysstasjon/Skreia ungdomsskole,,3,,FFFFFF,000000
+4512-5366,L,366,Gjøvik skysstasjon/Kapp - Lena ungdomsskole,,3,,FFFFFF,000000
+4512-5370,L,370,Fjellhaug/Raufoss vgs,,3,,FFFFFF,000000
+4512-5371,L,371,Børsvoll/Tandseter - Kolbu,,3,,FFFFFF,000000
+4512-5374,L,374,Skreia/Kapp-Åsmarka-Raufoss industri,,3,,FFFFFF,000000
+4512-5375,L,375,Lund/Bråstad,,3,,FFFFFF,000000
+4512-5376,L,376,Kapp/Raufoss - Åsmarka - Lena,,3,,FFFFFF,000000
+4512-5381,L,381,Skjærdalen/Reinsvoll skole,,3,,FFFFFF,000000
+4512-5382,L,382,Elton/Reinsvoll skole,,3,,FFFFFF,000000
+4512-5385,L,385,Sivesintajet/Reinsvoll skole,,3,,FFFFFF,000000
+4512-5388,L,388,Raufoss kjøpesenter/Grimås - sentrum,,3,,FFFFFF,000000
+4512-5391,L,391,Vang/Skyberg,,3,,FFFFFF,000000
+4512-5392,L,392,Vang/Stokke - Gjøvik,,3,,FFFFFF,000000
+4512-5393,L,393,Redalen/Biri,,3,,FFFFFF,000000
+4512-5397,L,397,Biri sentrum Snertingdal auto/Biri usk - Skrinnhagen sk,,3,,FFFFFF,000000
+4512-5398,L,398,Biri sentrum Snertingdal auto/Gjøvik vgs,,3,,FFFFFF,000000
+4512-5405,L,405,Harpefoss/Sødorptunet,,3,,FFFFFF,000000
+4512-5407,L,407,Hågå/Sødorp skole,,3,,FFFFFF,000000
+4512-5408,L,408,Massingdalen/Vinstrahallen,,3,,FFFFFF,000000
+4512-5409,L,409,Skåbu/Vinstra skysstasjon,,3,,FFFFFF,000000
+4512-5410,L,410,Vinstrahallen/Sør-Fron ungdomsskole,,3,,FFFFFF,000000
+4512-5411,L,411,Sødorptunet/Sødorptunet,,3,,FFFFFF,000000
+4512-5412,L,412,Fryatun/Midtbygda sk - Sør-Fron usk,,3,,FFFFFF,000000
+4512-5413,L,413,Sødorptunet/Brynsbakken,,3,,FFFFFF,000000
+4512-5414,L,414,Sødorptunet/Ottahallen,,3,,FFFFFF,000000
+4512-5419,L,419,Kilekrysset Kilevegen/Kvarvet - Ringebu,,3,,FFFFFF,000000
+4512-5420,L,420,Nordrum/Ringebu skysstasjon,,3,,FFFFFF,000000
+4512-5421,L,421,Dalen/Ringebu skysstasjon,,3,,FFFFFF,000000
+4512-5422,L,422,Pålsrud/Fåvang skole,,3,,FFFFFF,000000
+4512-5423,L,423,Ringebu skysstasjon/Kilgarden,,3,,FFFFFF,000000
+4512-5424,L,424,Ringebu skysstasjon/Tretten bru,,3,,FFFFFF,000000
+4512-5501,L,501,Otta skysstasjon/Bismo,,3,,FFFFFF,000000
+4512-5502,L,502,Otta skysstasjon/Rustmo - Lalm - Otta,,3,,FFFFFF,000000
+4512-5504,L,504,Marlo skule/Staurust,,3,,FFFFFF,000000
+4512-5511,L,511,Lom/Liasanden,,3,,FFFFFF,000000
+4512-5512,L,512,Lom/Garmo skule,,3,,FFFFFF,000000
+4512-5513,L,513,Lom/Grøna,,3,,FFFFFF,000000
+4512-5514,L,514,Skjåk u. skule/Lom,,3,,FFFFFF,000000
+4512-5521,L,521,Vågåmo rutebilstasjon/Randsverk sag,,3,,FFFFFF,000000
+4512-5522,L,522,Vågåmo rutebilstasjon/Skogbygda - Vågåmo,,3,,FFFFFF,000000
+4512-5524,L,524,Vågåmo rutebilstasjon/Storviksroa - Vågåmo,,3,,FFFFFF,000000
+4512-5525,L,525,Vågåmo rutebilstasjon/Kvarberg - Grev - Vågåmo,,3,,FFFFFF,000000
+4512-5526,L,526,Vågåmo rutebilstasjon/Hanslin,,3,,FFFFFF,000000
+4512-5527,L,527,Vågåmo rutebilstasjon/Nerlirampa,,3,,FFFFFF,000000
+4512-5531,L,531,Bjølstadmo/Otta,,3,,FFFFFF,000000
+4512-5533,L,533,Dalelie/Ottahallen,,3,,FFFFFF,000000
+4512-5534,L,534,Otta skysstasjon/Nord-Sel kirke,,3,,FFFFFF,000000
+4512-5535,L,535,Daleflata/Otta,,3,,FFFFFF,000000
+4512-5536,L,536,Otta skysstasjon/Haugstulen,,3,,FFFFFF,000000
+4512-5539,L,539,Otta skysstasjon/Vinstrahallen,,3,,FFFFFF,000000
+4512-5541,L,541,Bjølstadmo/Sæther - Øyi - Bjølstadmo,,3,,FFFFFF,000000
+4512-5542,L,542,Bjølstadmo/Heidal skule,,3,,FFFFFF,000000
+4512-5557,L,557,Dovre skole/Solsida-Rostbakken-Dovreskogen,,3,,FFFFFF,000000
+4512-5573,L,573,Skjåk u. skule/Nordberg skule - Dønfoss,,3,,FFFFFF,000000
+4512-5580,L,580,Dombås skyssterminal/Otta skysstasjon,,3,,FFFFFF,000000
+4512-5601,L,601,Spikarmoen/AMFI Valdres,,3,,FFFFFF,000000
+4512-5602,L,602,Fagernes skysstasjon/Beitostølen,,3,,FFFFFF,000000
+4512-5603,L,603,Fagernes skysstasjon/Tyinkrysset,,3,,FFFFFF,000000
+4512-5604,L,604,Fagernes skysstasjon/Gol stasjon,,3,,FFFFFF,000000
+4512-5605,L,605,Fossen camping/Nord-Aurdal skole,,3,,FFFFFF,000000
+4512-5606,L,606,Valdres vg. skole/Mjøsvang,,3,,FFFFFF,000000
+4512-5607,L,607,Fagernes skysstasjon/Sinderstølen,,3,,FFFFFF,000000
+4512-5608,L,608,Lagrud/Slidre skule,,3,,FFFFFF,000000
+4512-5610,L,610,Valdres vg. skole/Ryfoss,,3,,FFFFFF,000000
+4512-5611,L,611,Valdres vg. skole/Bagn,,3,,FFFFFF,000000
+4512-5612,L,612,Fagernes skysstasjon/Ulnes Montessoriskole,,3,,FFFFFF,000000
+4512-5651,L,651,Etnedal rutebilstasjon/Valdres vgs,,3,,FFFFFF,000000
+4512-5655,L,655,Sørum/Etnedal sentralskule,,3,,FFFFFF,000000
+4512-5656,L,656,Bjørgo/Etnedal skule,,3,,FFFFFF,000000
+4512-5657,L,657,Stavedal/Bagn,,3,,FFFFFF,000000
+4512-5658,L,658,Bagn/Høljerast øst,,3,,FFFFFF,000000
+4512-5659,L,659,Høneren/Valdres vgs,,3,,FFFFFF,000000
+4512-5661,L,231,Pålsodden/Åsli,,3,,FFFFFF,000000
+4512-5701,L,701,Toso skole/Hønefoss,,3,,FFFFFF,000000
+4512-5703,L,703,Horn ferjekai/Brandbu,,3,,FFFFFF,000000
+4512-5704,L,704,Brandbu skysstasjon/Hennung,,3,,FFFFFF,000000
+4512-5705,L,705,Brandbu skysstasjon/Jevnaker rutebilstasjon,,3,,FFFFFF,000000
+4512-5707,L,707,Gran rådhus/Brandbu skysstasjon,,3,,FFFFFF,000000
+4512-5709,L,709,Sanne skole/Walstad - Mellerud,,3,,FFFFFF,000000
+4512-5710,L,710,Gran stasjon/Gran stasjon,,3,,FFFFFF,000000
+4512-5711,L,711,Lunner barneskole/SÅS idrettsplass,,3,,FFFFFF,000000
+4512-5715,L,715,Lunner stasjon/Grua skole,,3,,FFFFFF,000000
+4512-5716,L,716,Hadeland vg. skole/Jevnaker rutebilstasjon,,3,,FFFFFF,000000
+4512-5717,L,717,Gran stasjon/Bergermoen,,3,,FFFFFF,000000
+4512-5719,L,719,Storgrunnvika/Bjoneroa skole,,3,,FFFFFF,000000
+4512-5720,L,720,Fluberg bru vest/Dokka,,3,,FFFFFF,000000
+4512-5722,L,722,Amundrud/Brandbu ungdomsskole,,3,,FFFFFF,000000
+4512-5723,L,723,Horn ferjekai/Tangen,,3,,FFFFFF,000000
+4512-5747,L,747,Lunner rådhus-Sand/Gran stasjon,,3,,FFFFFF,000000
+4512-5748,L,748,Gran rådhus/Skolelia Kiwi,,3,,FFFFFF,000000
+4512-5800,L,800,Hov rutebilstasjon/Gjøvik,,3,,FFFFFF,000000
+4512-5801,L,801,Holmen/Dokka Bondlid,,3,,FFFFFF,000000
+4512-5803,L,803,Horn ferjekai/Hov,,3,,FFFFFF,000000
+4512-5805,L,805,Gry/Fryal skole,,3,,FFFFFF,000000
+4512-5806,L,806,Hov rutebilstasjon/Fluberg bru,,3,,FFFFFF,000000
+4512-5815,L,815,Dokka skysstasjon/Sandmoen,,3,,FFFFFF,000000
+4512-5820,L,820,Bondlid Dokka/Grøterud,,3,,FFFFFF,000000
+4512-5821,L,821,Torpa barne- og u. skole/Hugulia,,3,,FFFFFF,000000
+4512-5822,L,822,Dokka skysstasjon/Vest Torpa - Dokka,,3,,FFFFFF,000000
+4512-5823,L,823,Dokka skysstasjon/Torpa barne- og ungdomsskole,,3,,FFFFFF,000000
+4512-5824,L,824,Vinjar/Torpa barne- og ungdomsskole,,3,,FFFFFF,000000
+4512-5825,L,825,Skinnerlitoppen/Dokka,,3,,FFFFFF,000000
+4512-5851,L,851,Høljerast Etnedalsvegen/Dokka skysstasjon,,3,,FFFFFF,000000
+4614-6003,B,3,Kastanjesletta/Fjell,,3,,FFFFFF,000000
+4614-6004,B,4,Bera snuplass/Kniveåsen,,3,,FFFFFF,000000
+4614-6005,B,5,Vinnes/Tors vei,,3,,FFFFFF,000000
+4614-6015,B,15,Underlia snuplass/Austad skog,,3,,FFFFFF,000000
+4614-6016,B,16,Underlia snuplass/Skoger,,3,,FFFFFF,000000
+4614-6021,B,21,Bragernes torg/Tolerud,,3,,FFFFFF,000000
+4614-6022,B,22,Bragernes torg/Konnerud-Andorsrud,,3,,FFFFFF,000000
+4614-6024,B,24,Bragernes torg/Konnerud-Eikerdelet,,3,,FFFFFF,000000
+4614-6025,B,25,Bragernes torg/Gulskogen,,3,,FFFFFF,000000
+4614-6035,B,35,Rundtom/Fjell,,3,,FFFFFF,000000
+4614-6037,B,37,Bragernes torg/Stillerudveien,,3,,FFFFFF,000000
+4614-6051,B,51,Drammen busstasjon/Mjøndalen stasjon,,3,,FFFFFF,000000
+4614-6052,B,52,Bragernes torg/Mjøndalen stasjon,,3,,FFFFFF,000000
+4614-6053,B,53,Mjøndalen stasjon/Åsen,,3,,FFFFFF,000000
+4614-6054,B,54,Mjøndalen stasjon/Hovjordet,,3,,FFFFFF,000000
+4614-6055,B,55,Drammen busstasjon/Hovjordet,,3,,FFFFFF,000000
+4614-6056,B,56,Langum/Eiker vidregående skole,,3,,FFFFFF,000000
+4614-6057,B,57,Krokstad skole/Hovjordet,,3,,FFFFFF,000000
+4614-6062,B,62,Lierbyen bussterminal/Sylling,,3,,FFFFFF,000000
+4614-6063,B,63,Drammen busstasjon/Sylling,,3,,FFFFFF,000000
+4614-6064,B,64,Sylling skole/Delekant,,3,,FFFFFF,000000
+4614-6065,B,65,Sylling skole/Hornstua,,3,,FFFFFF,000000
+4614-6066,B,66,Lierbyen bussterminal/Sylling skole,,3,,FFFFFF,000000
+4614-6071,B,71,Drammen busstasjon/Asker via Lierbyen,,3,,FFFFFF,000000
+4614-6072,B,72,Lier stadion/Lierskogen sentrum,,3,,FFFFFF,000000
+4614-6073,B,73,Drammen busstasjon/Lierskogen sentrum,,3,,FFFFFF,000000
+4614-6079,B,79,Gullaug skole/Lahellkrysset,,3,,FFFFFF,000000
+4614-6081,B,81,Drammen busstasjon/Sætre Bussterminal,,3,,FFFFFF,000000
+4614-6082,B,82,Katrineåsen/Røyken stasjon,,3,,FFFFFF,000000
+4614-6083,B,83,Grimsrud/Røyken Rådhus,,3,,FFFFFF,000000
+4614-6084,B,84,Røyken stasjon/Slemmestad,,3,,FFFFFF,000000
+4614-6085,B,85,Drammen busstasjon/Sætre via Åsheim,,3,,FFFFFF,000000
+4614-6086,B,86,Verket fergeleie/Sætre Bussterminal,,3,,FFFFFF,000000
+4614-6088,B,88,Sundbykrysset/Sørensvingen,,3,,FFFFFF,000000
+4614-6089,B,89,Folkestad skole/Røyken vgs.,,3,,FFFFFF,000000
+4614-6100,B,100,Drammen busstasjon/Vikersund via Horgen,,3,,FFFFFF,000000
+4614-6101,B,101,Drammen busstasjon/Hønefoss via Vikersund,,3,,FFFFFF,000000
+4614-6102,B,102,Drammen busstasjon/Hokksund stasjon,,3,,FFFFFF,000000
+4614-6103,B,103,Åmot skysstasjon/Åmot skysstasjon,,3,,FFFFFF,000000
+4614-6104,B,104,Åmot skysstasjon/Vikersund bussterminal,,3,,FFFFFF,000000
+4614-6105,B,105,Åmot skysstasjon/Eggedal-Bergshammeren,,3,,FFFFFF,000000
+4614-6106,B,106,Hatlekrysset/Åmot skysstasjon,,3,,FFFFFF,000000
+4614-6107,B,107,Hiåsen/Prestfoss skole,,3,,FFFFFF,000000
+4614-6108,B,108,Hønefoss sentrum/Vikersund bussterminal,,3,,FFFFFF,000000
+4614-6109,B,109,Vikersund bussterminal/Vikersund bussterminal,,3,,FFFFFF,000000
+4614-6110,B,110,Vikersund bussterminal/Noresund,,3,,FFFFFF,000000
+4614-6111,B,111,Vikersund bussterminal/Korsbøen,,3,,FFFFFF,000000
+4614-6112,B,112,Kjemperudmyra/Stalsberg skole,,3,,FFFFFF,000000
+4614-6113,B,113,Hatlekrysset/Åmot skysstasjon,,3,,FFFFFF,000000
+4614-6114,B,114,Badstuvika/Hatlekrysset,,3,,FFFFFF,000000
+4614-6115,B,115,Saggrenda dam/Hokksund stasjon,,3,,FFFFFF,000000
+4614-6116,B,116,Hokksund stasjon/Skotselv kryss,,3,,FFFFFF,000000
+4614-6117,B,117,Hokksund stasjon/Ormåsen,,3,,FFFFFF,000000
+4614-6118,B,118,Hokksund stasjon/Sundet,,3,,FFFFFF,000000
+4614-6119,B,119,Hokksund stasjon/Sundet,,3,,FFFFFF,000000
+4614-6120,B,120,Vestfossen u. skole/Råen 1,,3,,FFFFFF,000000
+4614-6121,B,121,Knivedalen/Skotselv skole,,3,,FFFFFF,000000
+4614-6122,B,6122,Sørby/Vestfossen ungdomsskole,,3,,FFFFFF,000000
+4614-6132,B,132,Ormåsen/Vestfossen u.skole,,3,,FFFFFF,000000
+4614-6133,B,133,Hakavika/Hokksund stasjon,,3,,FFFFFF,000000
+4614-6135,B,135,Torespæren øst/Hokksund skole,,3,,FFFFFF,000000
+4614-6136,B,136,Hammerfoss/Hokksund stasjon,,3,,FFFFFF,000000
+4614-6137,B,137,Skotselv skole/Hokksund stasjon,,3,,FFFFFF,000000
+4614-6138,B,138,Øvre Eiker rådhus/Skotsmoen,,3,,FFFFFF,000000
+4614-6139,B,139,Eiker vg. skole/Fevang,,3,,FFFFFF,000000
+4614-6169,B,169,Lierbyen bussterminal/Oslo bussterminal,,3,,FFFFFF,000000
+4614-6200,B,200,Hønefoss sentrum/Oslo via Sandvika,,3,,FFFFFF,000000
+4614-6210,B,210,Hønefoss sentrum/Sollihøgda,,3,,FFFFFF,000000
+4614-6211,B,211,Hønefoss sentrum/Vik via Røyse,,3,,FFFFFF,000000
+4614-6212,B,212,Hønefoss sentrum/Sundvollen sentrum,,3,,FFFFFF,000000
+4614-6213,B,213,Hønefoss sentrum/Røyse skole,,3,,FFFFFF,000000
+4614-6214,B,214,Hønefoss sentrum/Dalsbråten,,3,,FFFFFF,000000
+4614-6221,B,221,Hønefoss sentrum/Jevnaker rutebilstasjon,,3,,FFFFFF,000000
+4614-6222,B,222,Hønefoss sentrum/Oppenåsen,,3,,FFFFFF,000000
+4614-6223,B,223,Hønefoss sentrum/Smeden via Klekken,,3,,FFFFFF,000000
+4614-6224,B,224,Hønefoss sentrum/Smeden via Lisletta,,3,,FFFFFF,000000
+4614-6225,B,225,Hønefoss sentrum/Viul,,3,,FFFFFF,000000
+4614-6228,B,228,Morgenbøen/Hvervenmoen,,3,,FFFFFF,000000
+4614-6232,B,232,Hønefoss sentrum/Nes i Ådal,,3,,FFFFFF,000000
+4614-6233,B,233,Hønefoss sentrum/Ringmoen skole,,3,,FFFFFF,000000
+4614-6234,B,234,Skårflågan kryss/Hen,,3,,FFFFFF,000000
+4614-6239,B,239,Rinna/Nes skole,,3,,FFFFFF,000000
+4614-6241,B,241,Hønefoss sentrum/Sokna skole,,3,,FFFFFF,000000
+4614-6242,B,242,Hønefoss sentrum/Øst-Veme,,3,,FFFFFF,000000
+4614-6243,B,243,Hønefoss sentrum/Veien,,3,,FFFFFF,000000
+4614-6244,B,244,Bårnås bru/Sokna skole,,3,,FFFFFF,000000
+4614-6251,B,251,Sandaker bru/Tyristrand skole,,3,,FFFFFF,000000
+4614-6252,B,252,Sokna/Hølen,,3,,FFFFFF,000000
+4614-6253,B,253,Sokna skole/Steinbekken,,3,,FFFFFF,000000
+4614-6254,B,254,Hønefoss sentrum/Plogen,,3,,FFFFFF,000000
+4614-6260,B,260,Sundvollen sentrum/Oslo Lufthavn Gardermoen,,3,,FFFFFF,000000
+4614-6301,B,301,Bromma/Gol skysstasjon,,3,,FFFFFF,000000
+4614-6302,B,302,Leknes/Flåskole,,3,,FFFFFF,000000
+4614-6304,B,304,Bårdsplassen/Flå skole,,3,,FFFFFF,000000
+4614-6305,B,305,Stavn skole/Flå sentrum,,3,,FFFFFF,000000
+4614-6306,B,306,Nes barneskole/Storeli Nedre,,3,,FFFFFF,000000
+4614-6307,B,307,Sokna/Stavn,,3,,FFFFFF,000000
+4614-6310,B,310,Nesbyen sentrum/Rukke,,3,,FFFFFF,000000
+4614-6320,B,320,Gol skysstasjon/Trillhus,,3,,FFFFFF,000000
+4614-6321,B,321,Gol skysstasjon/Åsgardan,,3,,FFFFFF,000000
+4614-6330,B,330,Ål sentrum/Geilo stasjon,,3,,FFFFFF,000000
+4614-6331,B,331,Hagafoss/Sunhov,,3,,FFFFFF,000000
+4614-6333,B,333,Geilo skole/Geilo lufthavn Dagali,,3,,FFFFFF,000000
+4614-6334,B,334,Geilo skole/Haugastøl,,3,,FFFFFF,000000
+4614-6336,B,336,Ål stasjon/Bergsjø,,3,,FFFFFF,000000
+4614-6337,B,337,Ål sentrum/Lien Landbruksskole,,3,,FFFFFF,000000
+4614-6338,B,338,ÅL Idrettshall/Liatoppen,,3,,FFFFFF,000000
+4614-6339,B,339,Ål sentrum/Myking,,3,,FFFFFF,000000
+4614-6343,B,343,ÅL Idrettshall/Leveld sk.,,3,,FFFFFF,000000
+4614-6360,B,360,Gol stasjon/Tuv,,3,,FFFFFF,000000
+4614-6361,B,361,Gol skysstasjon/Lio,,3,,FFFFFF,000000
+4614-6362,B,362,Trøimhallen/Grønli bru,,3,,FFFFFF,000000
+4614-6363,B,363,Trøimhallen/Feten snuplass,,3,,FFFFFF,000000
+4614-6401,B,401,Eilertsløkka/Lindbojordet,,3,,FFFFFF,000000
+4614-6403,B,403,Skollenborg stasjon/Kongsberg knutepunkt,,3,,FFFFFF,000000
+4614-6405,B,405,Frydenbergåsen/Kongsberg skisenter,,3,,FFFFFF,000000
+4614-6407,B,407,Rosteds vei/Teknologiparken,,3,,FFFFFF,000000
+4614-6410,B,410,Kongsberg knutepunkt/Sagvoldbrua,,3,,FFFFFF,000000
+4614-6412,B,412,Kongsberg knutepunkt/Krekling kryss,,3,,FFFFFF,000000
+4614-6415,B,415,Fylkesgrensa Jondalen/Kongsberg,,3,,FFFFFF,000000
+4614-6417,B,417,Rødberg/Tunhovd snuplass,,3,,FFFFFF,000000
+4614-6418,B,418,Rebberud/Flesberg skole,,3,,FFFFFF,000000
+4614-6419,B,419,Landerud/Lampeland,,3,,FFFFFF,000000
+4614-6420,B,420,Kongsberg knutepunkt/Geilo stasjon,,3,,FFFFFF,000000
+4614-6421,B,421,Kongsberg knutepunkt/Prestfoss herredshus,,3,,FFFFFF,000000
+4614-6422,B,422,Lampeland/Lislien,,3,,FFFFFF,000000
+4614-6423,B,423,Laagveiskillet/Lampeland,,3,,FFFFFF,000000
+4614-6424,B,424,Gutterud/Svene,,3,,FFFFFF,000000
+4614-6425,B,425,Rødberg skole/Torsetlia,,3,,FFFFFF,000000
+4614-6426,B,426,Rollag sentrum/Veggli skole,,3,,FFFFFF,000000
+4614-6427,B,427,Mykstu kryss/Veggli skole,,3,,FFFFFF,000000
+4614-6428,B,428,Rostad/Veggli skole,,3,,FFFFFF,000000
+4614-6429,B,429,Fønstelien/Uvdal skole,,3,,FFFFFF,000000
+4614-6430,B,430,Kongsberg knutepunkt/Svarstadgarasjen,,3,,FFFFFF,000000
+4614-6431,B,431,Kongsberg knutepunkt/Haavengen,,3,,FFFFFF,000000
+4614-6434,B,434,Kongsberg knutepunkt/Gamlegrendåsen skole,,3,,FFFFFF,000000
+4614-6435,B,435,Rødberg/Uvdal sk.,,3,,FFFFFF,000000
+4614-6436,B,436,Kongsberg knutepunkt/Efteløt skole,,3,,FFFFFF,000000
+4614-6922,B,22N,Bragernes torg/Nattbuss Konnerud,,3,,FFFFFF,000000
+4614-6951,B,51N,Drammen busstasjon/Nattbuss Mjøndalen,,3,,FFFFFF,000000
+6844-3811,F,FB11,Oslo Lufthavn/Fredrikstad bussterminal,,3,,FFFFFF,000000
+6913-3801,A,FB1,Oslo Lufthavn/Majorstuen,,3,,FFFFFF,000000
+6913-3803,A,FB3,Oslo Lufthavn/Bekkestua terminal,,3,,FFFFFF,000000
+6913-3806,A,FB6,Oslo Lufthavn/Mortensrud T,,3,,FFFFFF,000000
+6913-3811,A,FB11,Oslo Lufthavn/Fredrikstad bussterminal,,3,,FFFFFF,000000
+6913-3821,A,UE1,Oslo Lufthavn/Leirskallen,,3,,FFFFFF,000000

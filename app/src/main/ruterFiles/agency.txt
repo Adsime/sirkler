@@ -1,0 +1,8 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+A,Ruter,http://www.ruter.no,Europe/Oslo,no,815 00 176,http://www.ruter.no/billetter/priskalkulator/
+J,Flybussen,http://www.flybussen.no/oslo/,Europe/Oslo,no,815 00 176,http://www.flybussen.no/Oslo/dokument/3427
+Ø,Østfold kollektivtrafikk,http://www.ostfold-kollektiv.no,Europe/Oslo,no,69 12 54 70,http://www.ostfold-kollektiv.no/index.aspx?maincat=5609&id=5662
+H,Hedmark trafikk,http://www.hedmark-trafikk.no,Europe/Oslo,no,815 00 191,http://hedmark-trafikk.no/Rutetabeller-og-priser
+L,Opplandstrafikk,http://www.opplandstrafikk.no,Europe/Oslo,no,815 00 191,http://www.opplandstrafikk.no/Billetter--Priser/
+B,Brakar,http://www.brakar.no,Europe/Oslo,no,815 00 184,http://www.brakar.no/Priser.aspx
+F,Flybussekspressen,http://www.flybussekspressen.no/,Europe/Oslo,no,815 00 176,http://www.flybussekspressen.no/priser/category2285.html
